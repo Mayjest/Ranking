@@ -25,6 +25,7 @@ def main():
     * --season - current year
     * --token - datapane token for logging in
     * --date - date of calculation
+    * --division - women/mixed/open/all
 
     Outputs:
     * Datapane webpage with deployed application
@@ -34,20 +35,31 @@ def main():
     """
     warnings.filterwarnings("ignore", category=FutureWarning)
 
-    parser = argparse.ArgumentParser(description="Parser for exporting to Datapane.")
-    parser.add_argument("--input", required=True, type=Path, help="Input folder for the export")
-    parser.add_argument("--output", required=True, type=Path, help="Folder to put datapane html files")
+    parser = argparse.ArgumentParser(
+        description="Parser for exporting to Datapane.")
+    parser.add_argument("--input", required=True, type=Path,
+                        help="Input folder for the export")
+    parser.add_argument("--output", required=True, type=Path,
+                        help="Folder to put datapane html files")
     # parser.add_argument("--token", required=True, help="Datapane token for logging in")
-    parser.add_argument("--season", required=True, type=int, help="Current year (for naming purposes)")
+    parser.add_argument("--season", required=True, type=int,
+                        help="Current year (for naming purposes)")
     parser.add_argument("--date", required=True, help="Date of calculation")
+    parser.add_argument(
+        "--division", default="all", choices=["women", "mixed", "open", "all"], help="Division (women/mixed/open/all)"
+    )
     args = parser.parse_args()
 
     # dp.login(token=args.token)
 
-    app = dp.App(
-        *[dp.Page(title=division.capitalize(), blocks=get_division_page(args, division)) for division in DIVISIONS]
-    )
-    # app.upload(name=f"EUF {args.season} Rankings", description=f"EUF {args.season} Rankings", open=True)
+    if args.division == "all":
+        app = dp.App(
+            *[dp.Page(title=division.capitalize(), blocks=get_division_page(args, division)) for division in DIVISIONS]
+        )
+    else:
+        app = dp.App(*get_division_page(args, args.division))
+
+     # app.upload(name=f"EUF {args.season} Rankings", description=f"EUF {args.season} Rankings", open=True)
     app.save(path=args.output, name=f"EUF {args.season} Rankings", open=True)
     # dp.save_report(blocks=app, path=args.output, open=True, name=f"EUF {args.season} Rankings")
 
@@ -74,9 +86,11 @@ def get_division_page(args: argparse.Namespace, division: str) -> t.Tuple[dp.Gro
     page_main_select = dp.Select(
         blocks=[
             dp.Group(get_summary_page(dataset, algo_names), label="Summary"),
-            dp.Group(get_games_per_team_page(dataset, algo_names), label="Games per Team"),
+            dp.Group(get_games_per_team_page(
+                dataset, algo_names), label="Games per Team"),
             dp.Group(get_tournaments_page(dataset), label="Tournaments"),
-            dp.Group(get_games_per_tournament_page(dataset), label="Games per Tournament"),
+            dp.Group(get_games_per_tournament_page(
+                dataset), label="Games per Tournament"),
             dp.Group(get_calendar_page(dataset), label="Calendar"),
         ],
         type=dp.SelectType.TABS,
@@ -110,13 +124,16 @@ def get_summary_page(dataset: GamesDataset, algo_names: t.List[str]) -> dp.Selec
     :return: Datapane page
     """
     summary_show = dataset.summary.copy()
-    summary_show["Record"] = summary_show["Wins"].astype(str) + "-" + summary_show["Losses"].astype(str)
-    summary_show["Score"] = summary_show["Goals_For"].astype(str) + "-" + summary_show["Goals_Against"].astype(str)
+    summary_show["Record"] = summary_show["Wins"].astype(
+        str) + "-" + summary_show["Losses"].astype(str)
+    summary_show["Score"] = summary_show["Goals_For"].astype(
+        str) + "-" + summary_show["Goals_Against"].astype(str)
     summary_show.index.name = "Team"
     summary_show = summary_show.reset_index()
     page = dp.Group(
         dp.Group(
-            dp.BigNumber(heading="EUF Teams", value=(~dataset.teams.str.contains("@")).sum()),
+            dp.BigNumber(heading="EUF Teams", value=(
+                ~dataset.teams.str.contains("@")).sum()),
             dp.BigNumber(heading="All Teams", value=dataset.n_teams),
             dp.BigNumber(heading="Tournaments", value=dataset.n_tournaments),
             dp.BigNumber(heading="Games", value=dataset.n_games),
@@ -149,7 +166,8 @@ def get_summary_for_one_algo(df_summary: pd.DataFrame, algo_name: str) -> dp.Tab
         }
     )
     df_summary = df_summary[
-        ["Rank", "Team", "Rating", "Tournaments", "Record", "Win Ratio", "Opponent Win Ratio", "Score"]
+        ["Rank", "Team", "Rating", "Tournaments", "Record",
+            "Win Ratio", "Opponent Win Ratio", "Score"]
     ].sort_values(by="Rating", ascending=False)
     summary_styled = df_summary.style.apply(
         lambda v: (["color:silver;"] if v["Rank"] == "-" else ["color:black;"]) * df_summary.shape[1], axis=1
@@ -169,7 +187,8 @@ def get_games_per_team_page(dataset: GamesDataset, algo_names: t.List[str]) -> d
     """
     page = dp.Select(
         blocks=[
-            dp.Group(get_games_per_team_info(dataset, team, algo_names), label=team)
+            dp.Group(get_games_per_team_info(
+                dataset, team, algo_names), label=team)
             for team in dataset.teams if "@" not in team
         ],
         type=dp.SelectType.DROPDOWN,
@@ -202,13 +221,16 @@ def get_games_per_team_info(dataset: GamesDataset, team: str, algo_names: t.List
     )
     for algo_name in algo_names:
         games_show[f"Game_Wght_{algo_name}"] = (
-            games_show[f"Game_Wght_{algo_name}"] * (1 - games_show[f"Is_Ignored_{algo_name}"])
+            games_show[f"Game_Wght_{algo_name}"] *
+            (1 - games_show[f"Is_Ignored_{algo_name}"])
         )
         games_show[f"Game_Wght_{algo_name}"] = (
-            100 * games_show[f"Game_Wght_{algo_name}"] / games_show[f"Game_Wght_{algo_name}"].sum()
+            100 * games_show[f"Game_Wght_{algo_name}"] /
+            games_show[f"Game_Wght_{algo_name}"].sum()
         )
         games_show[f"Game_Diff_{algo_name}"] = (
-            games_show[f"Game_Rank_Diff_{algo_name}"] - games_show[f"Team_Rank_Diff_{algo_name}"]
+            games_show[f"Game_Rank_Diff_{algo_name}"] -
+            games_show[f"Team_Rank_Diff_{algo_name}"]
         )
     group = dp.Group(
         dp.Group(
@@ -227,7 +249,8 @@ def get_games_per_team_info(dataset: GamesDataset, team: str, algo_names: t.List
         ),
         dp.Select(
             blocks=[
-                dp.Group(get_games_per_team_for_one_algo(games_show, algo_name), label=algo_name)
+                dp.Group(get_games_per_team_for_one_algo(
+                    games_show, algo_name), label=algo_name)
                 for algo_name in algo_names
             ],
             type=dp.SelectType.TABS,
@@ -245,7 +268,8 @@ def get_games_per_team_for_one_algo(df_games: pd.DataFrame, algo_name: str) -> d
     :return: Datapane table
     """
     df_games = df_games.rename(
-        columns={f"Game_Wght_{algo_name}": "Game Weight", f"Game_Diff_{algo_name}": "Game Difference"}
+        columns={f"Game_Wght_{algo_name}": "Game Weight",
+                 f"Game_Diff_{algo_name}": "Game Difference"}
     )
     df_games = df_games[["Opponent", "Date", "Tournament", "Result", "Game Weight", "Game Difference"]].sort_values(
         by=["Date", "Opponent"], ascending=[False, True]
@@ -253,9 +277,9 @@ def get_games_per_team_for_one_algo(df_games: pd.DataFrame, algo_name: str) -> d
     df_games.index += 1
     games_styled = df_games.style.apply(
         lambda v: (
-                      ["background-color:honeydew;"] if "W" in v["Result"]
-                      else (["background-color:seashell;"] if "L" in v["Result"] else ["background-color:white;"])
-                  ) * df_games.shape[1],
+            ["background-color:honeydew;"] if "W" in v["Result"]
+            else (["background-color:seashell;"] if "L" in v["Result"] else ["background-color:white;"])
+        ) * df_games.shape[1],
         axis=1,
     ).format({"Game Weight": "{:.1f}%", "Game Difference": "{:.2f}"})
     return dp.Table(games_styled)
@@ -290,7 +314,8 @@ def get_games_per_tournament_page(dataset: GamesDataset) -> dp.Select:
     """
     page = dp.Select(
         blocks=[
-            dp.Group(get_games_per_tournament_info(dataset, tournament), label=tournament)
+            dp.Group(get_games_per_tournament_info(
+                dataset, tournament), label=tournament)
             for tournament in dataset.tournaments.index
         ],
         type=dp.SelectType.DROPDOWN,
@@ -308,17 +333,21 @@ def get_games_per_tournament_info(dataset: GamesDataset, tournament: str) -> dp.
     """
     games_show = dataset.filter_games(tournament=tournament)
     tournament_info = dataset.tournaments.loc[tournament]
-    games_show["Result"] = games_show["Score_1"].astype(str) + "-" + games_show["Score_2"].astype(str)
+    games_show["Result"] = games_show["Score_1"].astype(
+        str) + "-" + games_show["Score_2"].astype(str)
     games_show = games_show[["Date", "Team_1", "Team_2", "Result"]].rename(
         columns={"Team_1": "Team 1", "Team_2": "Team 2"}
     )
     games_show.index += 1
     big_numbers = dp.Group(
         dp.BigNumber(heading="Tournament", value=tournament),
-        dp.BigNumber(heading="Date First", value=tournament_info["Date_First"]),
+        dp.BigNumber(heading="Date First",
+                     value=tournament_info["Date_First"]),
         dp.BigNumber(heading="Date Last", value=tournament_info["Date_Last"]),
-        dp.BigNumber(heading="EUF Teams", value=tournament_info["N_Teams_EUF"]),
-        dp.BigNumber(heading="All Teams", value=tournament_info["N_Teams_All"]),
+        dp.BigNumber(heading="EUF Teams",
+                     value=tournament_info["N_Teams_EUF"]),
+        dp.BigNumber(heading="All Teams",
+                     value=tournament_info["N_Teams_All"]),
         dp.BigNumber(heading="Games", value=tournament_info["N_Games"]),
         columns=3,
     )
@@ -333,13 +362,19 @@ def get_calendar_page(dataset: GamesDataset) -> dp.Table:
     :return: Calendar table for Datapane page
     """
     calendar_show = dataset.calendar.copy().reset_index().astype(str)
-    calendar_show["Calendar Week"] = calendar_show["Year"] + "/" + calendar_show["Calendar_Week"]
-    calendar_show["Tournaments (Cum)"] = calendar_show["N_Tournaments"] + " (" + calendar_show["N_Tournaments_Cum"] + ")"
-    calendar_show["Teams EUF (Cum)"] = calendar_show["N_Teams_EUF"] + " (" + calendar_show["N_Teams_EUF_Cum"] + ")"
-    calendar_show["Teams All (Cum)"] = calendar_show["N_Teams_All"] + " (" + calendar_show["N_Teams_All_Cum"] + ")"
-    calendar_show["Games (Cum)"] = calendar_show["N_Games"] + " (" + calendar_show["N_Games_Cum"] + ")"
+    calendar_show["Calendar Week"] = calendar_show["Year"] + \
+        "/" + calendar_show["Calendar_Week"]
+    calendar_show["Tournaments (Cum)"] = calendar_show["N_Tournaments"] + \
+        " (" + calendar_show["N_Tournaments_Cum"] + ")"
+    calendar_show["Teams EUF (Cum)"] = calendar_show["N_Teams_EUF"] + \
+        " (" + calendar_show["N_Teams_EUF_Cum"] + ")"
+    calendar_show["Teams All (Cum)"] = calendar_show["N_Teams_All"] + \
+        " (" + calendar_show["N_Teams_All_Cum"] + ")"
+    calendar_show["Games (Cum)"] = calendar_show["N_Games"] + \
+        " (" + calendar_show["N_Games_Cum"] + ")"
     calendar_show = calendar_show[
-        ["Calendar Week", "Date_Start", "Date_End", "Tournaments (Cum)", "Teams EUF (Cum)", "Teams All (Cum)", "Games (Cum)"]
+        ["Calendar Week", "Date_Start", "Date_End",
+            "Tournaments (Cum)", "Teams EUF (Cum)", "Teams All (Cum)", "Games (Cum)"]
     ].rename(columns={"Date_Start": "Date Start", "Date_End": "Date End"})
     calendar_styled = calendar_show.style.hide(axis="index")
     return dp.Table(calendar_styled)

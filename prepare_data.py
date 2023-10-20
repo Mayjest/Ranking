@@ -94,12 +94,13 @@ def main():
         # Change the aliases of the teams to the original team name and remove them from the teams list
         for team, aliases in zip(teams_euf, teams_aliases):
             if aliases:
+                to_check = aliases[0].split(',')
                 df_games["Team_1"] = df_games["Team_1"].apply(
-                    lambda x: team if x in aliases else x)
+                    lambda x: team if x in to_check else x)
                 df_games["Team_2"] = df_games["Team_2"].apply(
-                    lambda x: team if x in aliases else x)
+                    lambda x: team if x in to_check else x)
                 df_teams_at_tournaments["Team"] = df_teams_at_tournaments["Team"].apply(
-                    lambda x: team if x in aliases else x
+                    lambda x: team if x in to_check else x
                 )
 
         # Check if all tournament names in teams_at_tournaments file are correct
@@ -148,12 +149,6 @@ def main():
             "Teams not in the EUF season found in the data:\n" +
             "\n".join([t for t in sorted(dataset.teams) if "@" in t])
         )
-
-
-def apply_alias(curr_team, all_alias, aliases):
-    if curr_team in aliases:
-        return all_alias
-    return curr_team
 
 
 def add_suffix_if_not_euf_team_with_roster(df_teams_at_tournaments: pd.DataFrame, team: str, tournament: str) -> str:

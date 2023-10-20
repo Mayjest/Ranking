@@ -6,7 +6,7 @@ from classes.block_ranking_algorithm import BlockRankingAlgorithm
 # Ranking eligibility requirements
 MIN_TOURNAMENTS = 2
 MIN_GAMES = 10
-MIN_INTERCONNECTIVITY = 30
+MIN_INTERCONNECTIVITY = 25
 MAX_COMPONENT_REQUIRED = True
 
 
@@ -18,7 +18,8 @@ USAU_ALGO = BlockRankingAlgorithm(
     rank_fit_func="iteration",
     game_ignore_func="blowout",
     game_weight_params={"w0": 0.5, "w_first": 29, "w_last": 42},
-    rank_fit_params={"rating_start": 0, "n_round": 2, "n_iter": 1000, "verbose": True},
+    rank_fit_params={"rating_start": 0, "n_round": 2,
+                     "n_iter": 1000, "verbose": True},
     game_ignore_params={"min_valid": MIN_GAMES},
 )
 
@@ -42,4 +43,3 @@ SIGMOID_ALGO = BlockRankingAlgorithm(
 
 DIVISIONS = ["mixed", "open", "women"]
 ALGORITHMS = [USAU_ALGO, WINDMILL_ALGO, SIGMOID_ALGO]
-

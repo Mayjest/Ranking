@@ -23,9 +23,27 @@
                 "--input",
                 "input/2023",
                 "--output",
+                "prepared/2023",
+                "--season",
+                "2023",
+            ]
+        },
+        {
+            "name": "Calculate Rankings",
+            "type": "python",
+            "request": "launch",
+            "program": "calculate_rankings.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input",
+                "prepared/2023",
+                "--output",
                 "output/2023",
                 "--season",
                 "2023",
+                "--date",
+                "2023-10-20"
             ]
         },
         {
@@ -37,13 +55,13 @@
             "justMyCode": true,
             "args": [
                 "--input",
-                "output/2022",
+                "output/2023",
                 "--output",
-                "datapane/2022/report.html",
+                "datapane/2023/report.html",
                 "--season",
-                "2022",
+                "2023",
                 "--date",
-                "2023-10-04"
+                "2023-10-20"
             ]
         }
     ]

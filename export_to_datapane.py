@@ -36,17 +36,20 @@ def main():
 
     parser = argparse.ArgumentParser(description="Parser for exporting to Datapane.")
     parser.add_argument("--input", required=True, type=Path, help="Input folder for the export")
-    parser.add_argument("--token", required=True, help="Datapane token for logging in")
+    parser.add_argument("--output", required=True, type=Path, help="Folder to put datapane html files")
+    # parser.add_argument("--token", required=True, help="Datapane token for logging in")
     parser.add_argument("--season", required=True, type=int, help="Current year (for naming purposes)")
     parser.add_argument("--date", required=True, help="Date of calculation")
     args = parser.parse_args()
 
-    dp.login(token=args.token)
+    # dp.login(token=args.token)
 
     app = dp.App(
         *[dp.Page(title=division.capitalize(), blocks=get_division_page(args, division)) for division in DIVISIONS]
     )
-    app.upload(name=f"EUF {args.season} Rankings", description=f"EUF {args.season} Rankings", open=True)
+    # app.upload(name=f"EUF {args.season} Rankings", description=f"EUF {args.season} Rankings", open=True)
+    app.save(path=args.output, name=f"EUF {args.season} Rankings", open=True)
+    # dp.save_report(blocks=app, path=args.output, open=True, name=f"EUF {args.season} Rankings")
 
 
 def get_division_page(args: argparse.Namespace, division: str) -> t.Tuple[dp.Group, dp.Select]:

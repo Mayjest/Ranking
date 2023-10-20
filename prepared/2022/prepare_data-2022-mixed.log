@@ -1,0 +1,8 @@
+ranking.data_preparation - INFO - Preparing data for season 2022, mixed division.
+ranking.data_preparation - INFO - 45 teams defined for the mixed division.
+ranking.data_preparation - INFO - 280 raw games found for the mixed division.
+ranking.process_games - INFO - 85 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 280 valid games found for the mixed division.
+ranking.data_preparation - INFO - CSV files saved to output/2022.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+

@@ -1,0 +1,354 @@
+Tournament,Date,Team_1,Team_2,Score_1,Score_2
+Spring Startup,2023-04-22,Brighton Ultimate,Bristol Open 2,15,8
+Spring Startup,2023-04-22,Brighton Ultimate,Flyght Open 2,15,5
+Spring Startup,2023-04-22,Brighton Ultimate,St Albans,15,9
+Spring Startup,2023-04-22,Bristol Open,Flyght Open 1,15,4
+Spring Startup,2023-04-22,Bristol Open,Ka-Pow!,14,6
+Spring Startup,2023-04-22,Bristol Open,Newcastle Brown,15,9
+Spring Startup,2023-04-22,Bristol Open 2,Brixton,15,7
+Spring Startup,2023-04-22,Devon 1,Lemmings 1,13,7
+Spring Startup,2023-04-22,Devon 1,Newcastle Brown,14,8
+Spring Startup,2023-04-22,Fire of London,Cambridge Ultimate,15,8
+Spring Startup,2023-04-22,Fire of London,LLLeeds Open 1,10,9
+Spring Startup,2023-04-22,Flyght Open 1,Newcastle Brown,14,9
+Spring Startup,2023-04-22,Ka-Pow!,Devon 1,14,10
+Spring Startup,2023-04-22,Ka-Pow!,Lemmings 1,15,5
+Spring Startup,2023-04-22,Lemmings 1,Flyght Open 1,12,11
+Spring Startup,2023-04-22,Manchester Ultimate,Cambridge Ultimate,15,9
+Spring Startup,2023-04-22,Manchester Ultimate,LLLeeds Open 1,12,6
+Spring Startup,2023-04-22,Oxford Ultimate,Manchester Bees,14,13
+Spring Startup,2023-04-22,Reading Open,Cambridge Ultimate,15,9
+Spring Startup,2023-04-22,Reading Open,Manchester Ultimate,14,12
+Spring Startup,2023-04-22,SMOG Men,Fire of London,15,8
+Spring Startup,2023-04-22,SMOG Men,LLLeeds Open 1,13,8
+Spring Startup,2023-04-22,SMOG Men,Reading Open,14,13
+Spring Startup,2023-04-22,SOLENT 1,Birmingham Ultimate,15,5
+Spring Startup,2023-04-22,SOLENT 1,Manchester Bees,14,10
+Spring Startup,2023-04-22,SOLENT 1,Oxford Ultimate,12,11
+Spring Startup,2023-04-22,SOLENT A,Birmingham Ultimate,12,9
+Spring Startup,2023-04-22,SOLENT A,Oxford Ultimate,15,7
+Spring Startup,2023-04-22,St Albans,Flyght Open 2,15,3
+Spring Startup,2023-04-22,Steal,Bristol Open 2,13,7
+Spring Startup,2023-04-22,Steal,Brixton,15,2
+Spring Startup,2023-04-22,Steal,St Albans,14,9
+Spring Startup,2023-04-23,Birmingham Ultimate,Bristol Open 2,12,11
+Spring Startup,2023-04-23,Birmingham Ultimate,Flyght Open 2,13,9
+Spring Startup,2023-04-23,Brighton Ultimate,Cambridge Ultimate,15,9
+Spring Startup,2023-04-23,Brighton Ultimate,Flyght Open 1,14,9
+Spring Startup,2023-04-23,Brighton Ultimate,LLLeeds Open 1,15,8
+Spring Startup,2023-04-23,Bristol Open,Fire of London,15,11
+Spring Startup,2023-04-23,Bristol Open,Reading Open,15,9
+Spring Startup,2023-04-23,Bristol Open,SMOG Men,14,12
+Spring Startup,2023-04-23,Brixton,Flyght Open 2,10,9
+Spring Startup,2023-04-23,Cambridge Ultimate,Newcastle Brown,15,10
+Spring Startup,2023-04-23,Cambridge Ultimate,Steal,15,7
+Spring Startup,2023-04-23,Devon 1,Lemmings 1,12,10
+Spring Startup,2023-04-23,Fire of London,Devon 1,13,12
+Spring Startup,2023-04-23,Flyght Open 1,SOLENT 1,11,10
+Spring Startup,2023-04-23,Flyght Open 1,SOLENT A,15,7
+Spring Startup,2023-04-23,Ka-Pow!,Fire of London,14,11
+Spring Startup,2023-04-23,Ka-Pow!,Lemmings 1,15,5
+Spring Startup,2023-04-23,LLLeeds Open 1,Newcastle Brown,15,14
+Spring Startup,2023-04-23,LLLeeds Open 1,SOLENT A,12,10
+Spring Startup,2023-04-23,Manchester Bees,Brixton,15,7
+Spring Startup,2023-04-23,Manchester Bees,Flyght Open 2,14,10
+Spring Startup,2023-04-23,Manchester Ultimate,Ka-Pow!,15,12
+Spring Startup,2023-04-23,Newcastle Brown,SOLENT 1,15,12
+Spring Startup,2023-04-23,Oxford Ultimate,Bristol Open 2,14,13
+Spring Startup,2023-04-23,Oxford Ultimate,Brixton,15,5
+Spring Startup,2023-04-23,Oxford Ultimate,St Albans,14,13
+Spring Startup,2023-04-23,Reading Open,Devon 1,15,10
+Spring Startup,2023-04-23,Reading Open,Manchester Ultimate,15,11
+Spring Startup,2023-04-23,SMOG Men,Lemmings 1,15,7
+Spring Startup,2023-04-23,SMOG Men,Manchester Ultimate,13,7
+Spring Startup,2023-04-23,SOLENT 1,Steal,14,7
+Spring Startup,2023-04-23,St Albans,Birmingham Ultimate,15,8
+Spring Startup,2023-04-23,St Albans,Manchester Bees,15,10
+Spring Startup,2023-04-23,Steal,SOLENT A,11,7
+Manchester Mayhem,2023-05-14,Bristol Open,Cambridge Ultimate,11,9
+Manchester Mayhem,2023-05-14,Bristol Open,Curve,15,5
+Manchester Mayhem,2023-05-14,Bristol Open,Lemmings 1,14,9
+Manchester Mayhem,2023-05-14,Bristol Open,Manchester Bees,15,7
+Manchester Mayhem,2023-05-14,Cambridge Ultimate,Curve,15,4
+Manchester Mayhem,2023-05-14,Cambridge Ultimate,Manchester Bees,14,6
+Manchester Mayhem,2023-05-14,Flyght Open,Lemmings 2,13,6
+Manchester Mayhem,2023-05-14,Flyght Open,Yorkshire Ultimate,10,7
+Manchester Mayhem,2023-05-14,Lemmings 1,Cambridge Ultimate,12,7
+Manchester Mayhem,2023-05-14,Lemmings 1,Curve,15,7
+Manchester Mayhem,2023-05-14,Lemmings 1,Manchester Bees,15,6
+Manchester Mayhem,2023-05-14,Lemmings 2,Manchester Ultimate,8,7
+Manchester Mayhem,2023-05-14,Lemmings 2,Newcastle Brown,10,5
+Manchester Mayhem,2023-05-14,Lemmings 2,Yorkshire Ultimate,10,6
+Manchester Mayhem,2023-05-14,Manchester Bees,Curve,14,10
+Manchester Mayhem,2023-05-14,Manchester Ultimate,Flyght Open,15,4
+Manchester Mayhem,2023-05-14,Manchester Ultimate,Newcastle Brown,13,4
+Manchester Mayhem,2023-05-14,Manchester Ultimate,Yorkshire Ultimate,8,7
+Manchester Mayhem,2023-05-14,Newcastle Brown,Flyght Open,10,9
+Manchester Mayhem,2023-05-14,Yorkshire Ultimate,Newcastle Brown,10,9
+Manchester Mayhem,2023-05-15,Bristol Open,Cambridge Ultimate,15,12
+Manchester Mayhem,2023-05-15,Cambridge Ultimate,Lemmings 2,15,7
+Manchester Mayhem,2023-05-15,Cambridge Ultimate,Manchester Ultimate,15,14
+Manchester Mayhem,2023-05-15,Curve,Newcastle Brown,13,10
+Manchester Mayhem,2023-05-15,Lemmings 1,Bristol Open,15,14
+Manchester Mayhem,2023-05-15,Lemmings 1,Flyght Open,15,4
+Manchester Mayhem,2023-05-15,Lemmings 1,Lemmings 2,15,5
+Manchester Mayhem,2023-05-15,Manchester Bees,Newcastle Brown,14,13
+Manchester Mayhem,2023-05-15,Manchester Ultimate,Flyght Open,14,13
+Manchester Mayhem,2023-05-15,Yorkshire Ultimate,Curve,15,3
+Manchester Mayhem,2023-05-15,Yorkshire Ultimate,Manchester Bees,15,5
+Windfarm,2023-06-03,Alba,Lemmings 1,15,6
+Windfarm,2023-06-03,Birmingham Ultimate Open,Red Open,10,7
+Windfarm,2023-06-03,Bristol Open,Alba,15,6
+Windfarm,2023-06-03,Bristol Open,Ka-Pow!,15,12
+Windfarm,2023-06-03,Bristol Open,SMOG Men,12,8
+Windfarm,2023-06-03,Bristol Open 2,Birmingham Ultimate Open,13,4
+Windfarm,2023-06-03,Bristol Open 2,Red Open,15,5
+Windfarm,2023-06-03,Bristol Open 2,Thundering Herd,11,8
+Windfarm,2023-06-03,Brixton Open,Manchester Bees,14,8
+Windfarm,2023-06-03,Brixton Open,St Albans Open,13,10
+Windfarm,2023-06-03,Cambridge Ultimate,Edinburgh Ultimate,15,9
+Windfarm,2023-06-03,Cambridge Ultimate,Lemmings 2,12,11
+Windfarm,2023-06-03,Clapham,GB Open Masters,15,9
+Windfarm,2023-06-03,Clapham,Reading Open,15,10
+Windfarm,2023-06-03,Clapham,SMASH'D,15,8
+Windfarm,2023-06-03,Curve Open,Guildford Ultimate Open,12,7
+Windfarm,2023-06-03,Edinburgh Ultimate,Flyght Open 1,12,10
+Windfarm,2023-06-03,Fire of London,Glasgow Open,10,9
+Windfarm,2023-06-03,Fire of London,SOLENT 1,11,9
+Windfarm,2023-06-03,Flyght Open 1,Brighton Ultimate Open,12,10
+Windfarm,2023-06-03,Flyght Open 2,Curve Open,14,12
+Windfarm,2023-06-03,Flyght Open 2,Guildford Ultimate Open,12,5
+Windfarm,2023-06-03,GB Open Masters,PELT Ultimate,13,9
+Windfarm,2023-06-03,GB Open Masters,Reading Open,15,4
+Windfarm,2023-06-03,GB U20 Open,Newcastle Brown 2,15,4
+Windfarm,2023-06-03,GB U20 Open,Plymouth Ultimate Open,15,5
+Windfarm,2023-06-03,GB U24 Open,Alba,13,6
+Windfarm,2023-06-03,GB U24 Open,Lemmings 1,15,10
+Windfarm,2023-06-03,GB U24 Open,SMOG Men,15,8
+Windfarm,2023-06-03,Glasgow Open,SOLENT 1,12,11
+Windfarm,2023-06-03,Ireland U24 Open,Ka-Pow!,11,8
+Windfarm,2023-06-03,Ireland U24 Open,LLLeeds Open 1,13,9
+Windfarm,2023-06-03,Ireland U24 Open,Newcastle Brown,14,11
+Windfarm,2023-06-03,LLLeeds Open 1,Glasgow Open,15,11
+Windfarm,2023-06-03,Lemmings 1,Fire of London,15,6
+Windfarm,2023-06-03,Lemmings 2,Brighton Ultimate Open,12,10
+Windfarm,2023-06-03,Lemmings 2,Edinburgh Ultimate,15,9
+Windfarm,2023-06-03,Manchester Bees,St Albans Open,15,6
+Windfarm,2023-06-03,Manchester Ultimate,Cambridge Ultimate,14,12
+Windfarm,2023-06-03,Newcastle Brown,LLLeeds Open 1,15,6
+Windfarm,2023-06-03,Newcastle Brown,SOLENT 1,12,8
+Windfarm,2023-06-03,Oxford Ultimate Open,GB U20 Open,11,9
+Windfarm,2023-06-03,Oxford Ultimate Open,Newcastle Brown 2,15,1
+Windfarm,2023-06-03,Oxford Ultimate Open,Plymouth Ultimate Open,15,5
+Windfarm,2023-06-03,PELT Ultimate,Manchester Ultimate,15,10
+Windfarm,2023-06-03,PELT Ultimate,SMASH'D,13,10
+Windfarm,2023-06-03,Plymouth Ultimate Open,Newcastle Brown 2,11,10
+Windfarm,2023-06-03,SMASH'D,Manchester Ultimate,15,5
+Windfarm,2023-06-03,SMOG Men,Ka-Pow!,15,11
+Windfarm,2023-06-03,SOLENT 2,Brixton Open,11,5
+Windfarm,2023-06-03,SOLENT 2,Manchester Bees,15,14
+Windfarm,2023-06-03,SOLENT 2,St Albans Open,15,6
+Windfarm,2023-06-03,Steal Open,Curve Open,15,3
+Windfarm,2023-06-03,Steal Open,Flyght Open 2,15,7
+Windfarm,2023-06-03,Steal Open,Guildford Ultimate Open,15,3
+Windfarm,2023-06-03,Thundering Herd,Birmingham Ultimate Open,14,4
+Windfarm,2023-06-03,Thundering Herd,Red Open,12,7
+Windfarm,2023-06-03,Tribe Open,Brighton Ultimate Open,15,10
+Windfarm,2023-06-03,Tribe Open,Flyght Open 1,15,6
+Windfarm,2023-06-03,Tribe Open,Reading Open,15,12
+Windfarm,2023-06-04,Alba,PELT Ultimate,15,10
+Windfarm,2023-06-04,Alba,SMASH'D,11,9
+Windfarm,2023-06-04,Alba,Tribe Open,15,6
+Windfarm,2023-06-04,Birmingham Ultimate Open,Curve Open,11,9
+Windfarm,2023-06-04,Brighton Ultimate Open,Bristol Open 2,15,7
+Windfarm,2023-06-04,Brighton Ultimate Open,SOLENT 1,14,12
+Windfarm,2023-06-04,Bristol Open,Clapham,15,14
+Windfarm,2023-06-04,Brixton Open,Curve Open,14,7
+Windfarm,2023-06-04,Cambridge Ultimate,Edinburgh Ultimate,15,4
+Windfarm,2023-06-04,Cambridge Ultimate,Lemmings 2,15,13
+Windfarm,2023-06-04,Clapham,GB Open Masters,15,12
+Windfarm,2023-06-04,Curve Open,Plymouth Ultimate Open,12,10
+Windfarm,2023-06-04,Edinburgh Ultimate,LLLeeds Open 1,14,9
+Windfarm,2023-06-04,Fire of London,Edinburgh Ultimate,11,6
+Windfarm,2023-06-04,Fire of London,Newcastle Brown,15,10
+Windfarm,2023-06-04,Flyght Open 1,Oxford Ultimate Open,14,8
+Windfarm,2023-06-04,Flyght Open 1,SOLENT 2,11,8
+Windfarm,2023-06-04,Flyght Open 1,Steal Open,11,6
+Windfarm,2023-06-04,Flyght Open 2,Birmingham Ultimate Open,14,7
+Windfarm,2023-06-04,Flyght Open 2,Plymouth Ultimate Open,11,4
+Windfarm,2023-06-04,GB U20 Open,Birmingham Ultimate Open,15,5
+Windfarm,2023-06-04,GB U20 Open,Brixton Open,14,5
+Windfarm,2023-06-04,GB U20 Open,Manchester Bees,15,6
+Windfarm,2023-06-04,GB U24 Open,Bristol Open,15,10
+Windfarm,2023-06-04,GB U24 Open,GB Open Masters,15,13
+Windfarm,2023-06-04,Glasgow Open,Bristol Open 2,15,7
+Windfarm,2023-06-04,Glasgow Open,SOLENT 2,15,7
+Windfarm,2023-06-04,Ireland U24 Open,Lemmings 1,12,9
+Windfarm,2023-06-04,Ireland U24 Open,Tribe Open,11,7
+Windfarm,2023-06-04,Ka-Pow!,Fire of London,13,12
+Windfarm,2023-06-04,Ka-Pow!,Lemmings 2,15,9
+Windfarm,2023-06-04,Ka-Pow!,Reading Open,13,11
+Windfarm,2023-06-04,Lemmings 1,Manchester Ultimate,10,9
+Windfarm,2023-06-04,Lemmings 2,LLLeeds Open 1,15,8
+Windfarm,2023-06-04,Manchester Bees,Flyght Open 2,14,5
+Windfarm,2023-06-04,Manchester Bees,Thundering Herd,12,11
+Windfarm,2023-06-04,Newcastle Brown,Cambridge Ultimate,15,10
+Windfarm,2023-06-04,Newcastle Brown,Reading Open,15,13
+Windfarm,2023-06-04,Newcastle Brown 2,Guildford Ultimate Open,11,7
+Windfarm,2023-06-04,Oxford Ultimate Open,Bristol Open 2,15,5
+Windfarm,2023-06-04,PELT Ultimate,Lemmings 1,15,7
+Windfarm,2023-06-04,PELT Ultimate,SMOG Men,15,8
+Windfarm,2023-06-04,Reading Open,LLLeeds Open 1,13,12
+Windfarm,2023-06-04,Red Open,Guildford Ultimate Open,14,6
+Windfarm,2023-06-04,Red Open,St Albans Open,12,11
+Windfarm,2023-06-04,SMASH'D,Ireland U24 Open,13,9
+Windfarm,2023-06-04,SMASH'D,SMOG Men,13,11
+Windfarm,2023-06-04,SMOG Men,Manchester Ultimate,12,11
+Windfarm,2023-06-04,SOLENT 1,Oxford Ultimate Open,13,10
+Windfarm,2023-06-04,SOLENT 2,SOLENT 1,12,10
+Windfarm,2023-06-04,St Albans Open,Newcastle Brown 2,14,9
+Windfarm,2023-06-04,Steal Open,Brighton Ultimate Open,15,14
+Windfarm,2023-06-04,Steal Open,Glasgow Open,10,8
+Windfarm,2023-06-04,Thundering Herd,Brixton Open,10,7
+Windfarm,2023-06-04,Thundering Herd,Plymouth Ultimate Open,13,6
+Windfarm,2023-06-04,Tribe Open,Manchester Ultimate,12,7
+Regionals North,2023-07-29,Alba,Flyght Open 1,15,2
+Regionals North,2023-07-29,Alba,Newcastle Brown,15,6
+Regionals North,2023-07-29,Chevron Action Flash,Cambridge Ultimate,15,6
+Regionals North,2023-07-29,Chevron Action Flash,Steal,15,3
+Regionals North,2023-07-29,Chevron Action Flash,Yorkshire Ultimate,15,4
+Regionals North,2023-07-29,EDI,Manchester Bees,12,11
+Regionals North,2023-07-29,Lemmings 1,EDI,12,6
+Regionals North,2023-07-29,Lemmings 1,Manchester Bees,15,4
+Regionals North,2023-07-29,Manchester Ultimate,EDI,12,10
+Regionals North,2023-07-29,Manchester Ultimate,Lemmings 1,15,6
+Regionals North,2023-07-29,Manchester Ultimate,Manchester Bees,15,7
+Regionals North,2023-07-29,Newcastle Brown,Flyght Open 1,15,1
+Regionals North,2023-07-29,Steal,Cambridge Ultimate,15,7
+Regionals North,2023-07-29,Yorkshire Ultimate,Cambridge Ultimate,14,9
+Regionals North,2023-07-29,Yorkshire Ultimate,Steal,10,5
+Regionals South,2023-07-29,Bristol Open,Devon,13,7
+Regionals South,2023-07-29,Bristol Open,Ka-Pow!,12,5
+Regionals South,2023-07-29,Bristol Open,Reading Open,12,7
+Regionals South,2023-07-29,Bristol Open,Zimmer,13,3
+Regionals South,2023-07-29,Clapham Ultimate,Fire of London,13,2
+Regionals South,2023-07-29,Clapham Ultimate,SMASH'D,15,6
+Regionals South,2023-07-29,Clapham Ultimate,SOLENT,15,7
+Regionals South,2023-07-29,Devon,Zimmer,11,10
+Regionals South,2023-07-29,Fire of London,SOLENT,12,11
+Regionals South,2023-07-29,Ka-Pow!,Devon,8,7
+Regionals South,2023-07-29,Ka-Pow!,Zimmer,13,7
+Regionals South,2023-07-29,Reading Open,Devon,11,10
+Regionals South,2023-07-29,Reading Open,Ka-Pow!,10,7
+Regionals South,2023-07-29,Reading Open,Zimmer,12,9
+Regionals South,2023-07-29,SMASH'D,Fire of London,13,7
+Regionals South,2023-07-29,SMASH'D,SOLENT,15,8
+Regionals North,2023-07-30,Alba,Manchester Ultimate,15,7
+Regionals North,2023-07-30,Alba,Yorkshire Ultimate,15,6
+Regionals North,2023-07-30,Cambridge Ultimate,Flyght Open 1,13,3
+Regionals North,2023-07-30,Cambridge Ultimate,Manchester Bees,11,8
+Regionals North,2023-07-30,Cambridge Ultimate,Steal,9,6
+Regionals North,2023-07-30,Chevron Action Flash,Alba,14,8
+Regionals North,2023-07-30,Chevron Action Flash,Lemmings 1,15,4
+Regionals North,2023-07-30,Chevron Action Flash,Newcastle Brown,15,10
+Regionals North,2023-07-30,EDI,Cambridge Ultimate,10,9
+Regionals North,2023-07-30,EDI,Flyght Open 1,12,5
+Regionals North,2023-07-30,Manchester Bees,EDI,10,9
+Regionals North,2023-07-30,Manchester Bees,Flyght Open 1,12,4
+Regionals North,2023-07-30,Manchester Ultimate,Yorkshire Ultimate,13,4
+Regionals North,2023-07-30,Newcastle Brown,Lemmings 1,14,6
+Regionals North,2023-07-30,Newcastle Brown,Manchester Ultimate,14,12
+Regionals North,2023-07-30,Steal,EDI,10,8
+Regionals North,2023-07-30,Steal,Flyght Open 1,13,3
+Regionals North,2023-07-30,Steal,Manchester Bees,11,6
+Regionals South,2023-07-30,Bristol Open,SMASH'D,12,10
+Regionals South,2023-07-30,Clapham Ultimate,Bristol Open,15,10
+Regionals South,2023-07-30,Clapham Ultimate,Reading Open,15,4
+Regionals South,2023-07-30,Devon,Fire of London,14,11
+Regionals South,2023-07-30,Fire of London,SOLENT,15,8
+Regionals South,2023-07-30,Fire of London,Zimmer,13,12
+Regionals South,2023-07-30,Ka-Pow!,Devon,10,8
+Regionals South,2023-07-30,Ka-Pow!,SOLENT,12,4
+Regionals South,2023-07-30,Reading Open,Devon,10,7
+Regionals South,2023-07-30,SMASH'D,Ka-Pow!,12,10
+Regionals South,2023-07-30,SMASH'D,Reading Open,15,13
+Regionals South,2023-07-30,Zimmer,SOLENT,13,10
+August Edition,2023-08-12,Brighton Ultimate,Curve Open,15,7
+August Edition,2023-08-12,Brighton Ultimate,SOLENT 1,14,4
+August Edition,2023-08-12,Brighton Ultimate,St Albans Open,15,4
+August Edition,2023-08-12,Curve Open,Brixton Open,15,3
+August Edition,2023-08-12,Curve Open,St Albans Open,13,6
+August Edition,2023-08-12,GB Grand Masters Open,Brixton Open,15,6
+August Edition,2023-08-12,GB Grand Masters Open,SOLENT 1,13,11
+August Edition,2023-08-12,GB Grand Masters Open,St Albans Open,15,8
+August Edition,2023-08-12,SOLENT 1,Brixton Open,15,1
+August Edition,2023-08-13,Brighton Ultimate,Brixton Open,15,0
+August Edition,2023-08-13,Brighton Ultimate,GB Grand Masters Open,13,10
+August Edition,2023-08-13,Brixton Open,St Albans Open,9,8
+August Edition,2023-08-13,GB Grand Masters Open,Curve Open,15,4
+August Edition,2023-08-13,SOLENT 1,Curve Open,13,7
+August Edition,2023-08-13,SOLENT 1,St Albans Open,15,8
+Nationals,2023-08-27,Alba,Newcastle Brown,15,4
+Nationals,2023-08-27,Alba,SMASH'D,15,10
+Nationals,2023-08-27,Bristol Open,Dublin Frisbee 7s,15,3
+Nationals,2023-08-27,Bristol Open,Ranelagh,15,14
+Nationals,2023-08-27,Chevron Action Flash,Alba,15,13
+Nationals,2023-08-27,Chevron Action Flash,Ka-Pow!,15,8
+Nationals,2023-08-27,Chevron Action Flash,Reading Open,15,3
+Nationals,2023-08-27,Clapham Ultimate,Bristol Open,15,10
+Nationals,2023-08-27,Clapham Ultimate,PELT Ultimate,15,3
+Nationals,2023-08-27,Clapham Ultimate,XVI,15,10
+Nationals,2023-08-27,Ka-Pow!,Newcastle Brown,15,14
+Nationals,2023-08-27,PELT Ultimate,Dublin Frisbee 7s,14,10
+Nationals,2023-08-27,Ranelagh,Dublin Frisbee 7s,15,6
+Nationals,2023-08-27,Ranelagh,XVI,15,13
+Nationals,2023-08-27,Reading Open,Ka-Pow!,14,13
+Nationals,2023-08-27,SMASH'D,Newcastle Brown,15,6
+Nationals,2023-08-27,SMASH'D,Reading Open,15,7
+Nationals,2023-08-27,XVI,PELT Ultimate,15,12
+Nationals D2,2023-08-27,Cambridge Ultimate,Flyght Open,11,4
+Nationals D2,2023-08-27,Cambridge Ultimate,Manchester Bees,10,8
+Nationals D2,2023-08-27,Devon,EDI,11,7
+Nationals D2,2023-08-27,Devon,SOLENT,10,5
+Nationals D2,2023-08-27,Devon,Steal,10,4
+Nationals D2,2023-08-27,EDI,Steal,12,11
+Nationals D2,2023-08-27,Fire of London,Cambridge Ultimate,12,9
+Nationals D2,2023-08-27,Fire of London,Flyght Open,13,2
+Nationals D2,2023-08-27,Fire of London,Manchester Bees,11,5
+Nationals D2,2023-08-27,Fire of London,Manchester Ultimate,11,10
+Nationals D2,2023-08-27,Lemmings,Devon,9,8
+Nationals D2,2023-08-27,Lemmings,EDI,11,6
+Nationals D2,2023-08-27,Lemmings,Steal,12,9
+Nationals D2,2023-08-27,Manchester Bees,Flyght Open,9,7
+Nationals D2,2023-08-27,Manchester Ultimate,Cambridge Ultimate,13,3
+Nationals D2,2023-08-27,Manchester Ultimate,Flyght Open,13,3
+Nationals D2,2023-08-27,Manchester Ultimate,Manchester Bees,11,4
+Nationals D2,2023-08-27,SOLENT,EDI,11,8
+Nationals D2,2023-08-27,SOLENT,Lemmings,9,8
+Nationals D2,2023-08-27,Steal,SOLENT,12,9
+Nationals,2023-08-28,Alba,Ranelagh,15,14
+Nationals,2023-08-28,Alba,SMASH'D,15,5
+Nationals,2023-08-28,Bristol Open,XVI,14,9
+Nationals,2023-08-28,Chevron Action Flash,Clapham Ultimate,12,11
+Nationals,2023-08-28,Dublin Frisbee 7s,Reading Open,14,13
+Nationals,2023-08-28,Ka-Pow!,Dublin Frisbee 7s,15,9
+Nationals,2023-08-28,Newcastle Brown,Ka-Pow!,13,12
+Nationals,2023-08-28,Newcastle Brown,Reading Open,13,12
+Nationals,2023-08-28,PELT Ultimate,Reading Open,15,10
+Nationals,2023-08-28,PELT Ultimate,XVI,12,11
+Nationals,2023-08-28,Ranelagh,Bristol Open,15,9
+Nationals,2023-08-28,SMASH'D,Bristol Open,11,9
+Nationals,2023-08-28,XVI,Ka-Pow!,15,10
+Nationals D2,2023-08-28,Devon,Cambridge Ultimate,15,10
+Nationals D2,2023-08-28,Devon,Fire of London,11,10
+Nationals D2,2023-08-28,Devon,Lemmings,12,9
+Nationals D2,2023-08-28,EDI,Cambridge Ultimate,14,8
+Nationals D2,2023-08-28,EDI,Flyght Open,15,5
+Nationals D2,2023-08-28,EDI,Steal,14,8
+Nationals D2,2023-08-28,Fire of London,Manchester Ultimate,9,7
+Nationals D2,2023-08-28,Lemmings,Manchester Ultimate,11,6
+Nationals D2,2023-08-28,Manchester Bees,Flyght Open,13,10
+Nationals D2,2023-08-28,Manchester Ultimate,SOLENT,15,5
+Nationals D2,2023-08-28,SOLENT,Cambridge Ultimate,15,6
+Nationals D2,2023-08-28,Steal,Manchester Bees,12,7
+Nationals D2,2023-08-28,Steal,SOLENT,12,8

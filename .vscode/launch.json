@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Prepare Data",
+            "type": "python",
+            "request": "launch",
+            "program": "prepare_data.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input",
+                "input/2023",
+                "--output",
+                "output/2023",
+                "--season",
+                "2023",
+            ]
+        },
+        {
+            "name": "export to datapane",
+            "type": "python",
+            "request": "launch",
+            "program": "export_to_datapane.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input",
+                "output/2022",
+                "--output",
+                "datapane/2022/report.html",
+                "--season",
+                "2022",
+                "--date",
+                "2023-10-04"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+Team, Tournament
+Glasgow, Uni Fans 2022
+Lemmings, Uni Fans 2022
+MCP, Uni Fans 2022
+Bristol Mixed, Uni Fans 2022
+Black Sheep, Uni Fans 2022
+Plymouth Mixed, Uni Fans 2022
+Sheffield Steal, Uni Fans 2022
+Deep, Reading Half 2022
+Reading, Reading Half 2022
+Space, Reading Half 2022
+Reading 2, Reading Half 2022
+Lemmings, Reading Half 2022
+Oxford Ultimate, Reading Half 2022
+Cambridge, Reading Half 2022
+Thundering Herd Masters, Reading Half 2022
+Thundering Herd, Reading Half 2022
+Purple Cobras, Reading Half 2022
+St Albans, Reading Half 2022
+Brixton, Reading Half 2022
+Zoo, Reading Half 2022
+Mixed Feelings, Reading Half 2022
+Guildford Ultimate, Reading Half 2022
+Reading 3, Reading Half 2022
+Big Fish Little Fish, Reading Half 2022
+BN1, Reading Half 2022
+Cambridge Ultimate 2, Reading Half 2022
+Sharkbear!, Reading Half 2022
+Black Sheep, Grey Towers 2022
+Glasgow, Grey Towers 2022
+LLLeeds, Grey Towers 2022
+Nemesis, Grey Towers 2022
+The Brown, Grey Towers 2022
+YCU, Grey Towers 2022
+Cambridge, Moooxed 2022
+Birmingham Ultimate, Moooxed 2022
+Oxford Ultimate, Moooxed 2022
+Thundering, Moooxed 2022
+Bristol Mixed, Moooxed 2022
+Herd, Moooxed 2022
+Brixton, Moooxed 2022
+Mythago, Moooxed 2022
+Zoo, Moooxed 2022
+Curve, Moooxed 2022
+South Wales Storm, Moooxed 2022
+St Albans, Moooxed 2022
+Sharkbear!, Moooxed 2022
+Hustle, Moooxed 2022
+GU, Moooxed 2022
+Deep Space, YDG 2022
+Reading, YDG 2022
+SMOG Rising, YDG 2022
+Lemmings, YDG 2022
+Oxford Ultimate, YDG 2022
+Cambridge, YDG 2022
+Thundering, YDG 2022
+Purple Cobras, YDG 2022
+Mixed Feelings, YDG 2022
+Brixton, YDG 2022
+Herd, YDG 2022
+Curve, YDG 2022
+Bristol Mixed, YDG 2022
+Zoolander, YDG 2022
+Brighton Mixed, YDG 2022
+Zootopia, YDG 2022
+Flyght Club, YDG 2022
+Norwich Ultimate, YDG 2022
+South Wales Storm, YDG 2022
+Plymouth Mixed, YDG 2022
+St Albans, YDG 2022
+GU, YDG 2022
+Black Sheep, YDG 2022
+Horsham Ultimate, YDG 2022
+Reading, Regionals South 2022
+Deep Space, Regionals South 2022
+Oxford Ultimate, Regionals South 2022
+Thundering Herd, Regionals South 2022
+Mixed Feelings, Regionals South 2022
+Brighton, Regionals South 2022
+Thundering Herd 2, Regionals South 2022
+Purple Cobras, Regionals South 2022
+Bristol Mixed, Regionals South 2022
+Zoo, Regionals South 2022
+Guildford, Regionals South 2022
+SMOG, Regionals North 2022
+Lemmings, Regionals North 2022
+Cambridge, Regionals North 2022
+SMOG Rising, Regionals North 2022
+Birmingham Ultimate, Regionals North 2022
+Glasgow, Regionals North 2022
+Nemesis, Regionals North 2022
+Black Sheep, Regionals North 2022
+SMOG, Nationals 2022
+Deep Space, Nationals 2022
+Reading, Nationals 2022
+Glasgow, Nationals 2022
+Lemmings, Nationals 2022
+Oxford Ultimate, Nationals 2022
+SMOG Rising, Nationals 2022
+Thundering Herd, Nationals 2022
+Birmingham Ultimate, Nationals 2022
+Purple Cobras, Nationals 2022
+Nemesis, Nationals 2022
+Black Sheep, Nationals 2022

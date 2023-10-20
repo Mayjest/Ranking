@@ -1,0 +1,156 @@
+Tournament,Date,Team_1,Team_2,Score_1,Score_2
+Spring Invite,2023-04-22,Bristol,Horizon,15,2
+Spring Invite,2023-04-22,Bristol,SMOG Women,14,8
+Spring Invite,2023-04-22,Bristol,SY-See,14,8
+Spring Invite,2023-04-22,Brixton,Chameleons,12,3
+Spring Invite,2023-04-22,Brixton,Oxford Ultimate,9,7
+Spring Invite,2023-04-22,Dublin Gravity,Brighton Ultimate,15,6
+Spring Invite,2023-04-22,Dublin Gravity,SCRAM,13,5
+Spring Invite,2023-04-22,Dublin Gravity,Spice Ultimate,15,6
+Spring Invite,2023-04-22,GB U20 Women Blue,Brixton,9,6
+Spring Invite,2023-04-22,GB U20 Women Blue,Chameleons,13,0
+Spring Invite,2023-04-22,GB U20 Women Blue,Oxford Ultimate,8,6
+Spring Invite,2023-04-22,GB U20 Women Red,Brixton,9,6
+Spring Invite,2023-04-22,GB U20 Women Red,Chameleons,10,4
+Spring Invite,2023-04-22,GB U20 Women Red,GB U20 Women Blue,1,1
+Spring Invite,2023-04-22,GB U20 Women Red,Oxford Ultimate,11,3
+Spring Invite,2023-04-22,Iceni,Reading 1,15,11
+Spring Invite,2023-04-22,Iceni,SY-Sea,15,5
+Spring Invite,2023-04-22,LMU,Iceni,15,8
+Spring Invite,2023-04-22,LMU,SY-Sea,15,6
+Spring Invite,2023-04-22,Oxford Ultimate,Chameleons,8,5
+Spring Invite,2023-04-22,Reading 1,LMU,15,12
+Spring Invite,2023-04-22,Reading 1,SY-Sea,15,6
+Spring Invite,2023-04-22,SCRAM,Brighton Ultimate,15,6
+Spring Invite,2023-04-22,SMOG Women,Horizon,14,8
+Spring Invite,2023-04-22,SMOG Women,SY-See,13,10
+Spring Invite,2023-04-22,SY-See,Horizon,14,7
+Spring Invite,2023-04-22,Spice Ultimate,Brighton Ultimate,15,1
+Spring Invite,2023-04-22,Spice Ultimate,SCRAM,15,6
+Spring Invite,2023-04-23,Brighton Ultimate,GB U20 Women Red,13,7
+Spring Invite,2023-04-23,Brighton Ultimate,Oxford Ultimate,15,6
+Spring Invite,2023-04-23,Bristol,Reading 1,15,10
+Spring Invite,2023-04-23,Bristol,Spice Ultimate,14,10
+Spring Invite,2023-04-23,Brixton,Brighton Ultimate,12,5
+Spring Invite,2023-04-23,Dublin Gravity,Bristol,10,9
+Spring Invite,2023-04-23,Dublin Gravity,LMU,14,10
+Spring Invite,2023-04-23,Dublin Gravity,Reading 1,13,10
+Spring Invite,2023-04-23,GB U20 Women Blue,GB U20 Women Red,5,4
+Spring Invite,2023-04-23,GB U20 Women Red,Chameleons,15,7
+Spring Invite,2023-04-23,Horizon,Chameleons,15,1
+Spring Invite,2023-04-23,Horizon,GB U20 Women Blue,15,4
+Spring Invite,2023-04-23,Horizon,SY-Sea,15,12
+Spring Invite,2023-04-23,Iceni,SCRAM,15,6
+Spring Invite,2023-04-23,Iceni,SY-See,15,3
+Spring Invite,2023-04-23,LMU,SMOG Women,15,10
+Spring Invite,2023-04-23,LMU,Spice Ultimate,13,10
+Spring Invite,2023-04-23,Oxford Ultimate,Chameleons,15,7
+Spring Invite,2023-04-23,Reading 1,SMOG Women,13,12
+Spring Invite,2023-04-23,SY-Sea,Brixton,14,9
+Spring Invite,2023-04-23,SY-Sea,Oxford Ultimate,15,0
+Spring Invite,2023-04-23,SY-See,SCRAM,12,7
+Spring Invite,2023-04-23,Spice Ultimate,SMOG Women,13,10
+Windfarm,2023-06-03,Brighton Ultimate Women,Chameleons,10,3
+Windfarm,2023-06-03,Brighton Ultimate Women,Flyght Women,7,5
+Windfarm,2023-06-03,Brighton Ultimate Women,Guildford Ultimate Women,8,6
+Windfarm,2023-06-03,Brighton Ultimate Women,Yorkshire Women,12,2
+Windfarm,2023-06-03,Bristol Women,Horizon,11,6
+Windfarm,2023-06-03,Bristol Women,SYC,9,7
+Windfarm,2023-06-03,Chameleons,Guildford Ultimate Women,9,7
+Windfarm,2023-06-03,Chameleons,Yorkshire Women,8,3
+Windfarm,2023-06-03,Flyght Women,Chameleons,10,6
+Windfarm,2023-06-03,Flyght Women,Guildford Ultimate Women,10,5
+Windfarm,2023-06-03,Flyght Women,Yorkshire Women,13,0
+Windfarm,2023-06-03,GB U24 Women,Ireland U24 Women,11,5
+Windfarm,2023-06-03,GB U24 Women,Spice,13,7
+Windfarm,2023-06-03,GB Women,GB U20 Women,15,1
+Windfarm,2023-06-03,GB Women,Ice Age,14,8
+Windfarm,2023-06-03,GB Women,SYC,13,3
+Windfarm,2023-06-03,GB Womens Masters,Horizon,11,8
+Windfarm,2023-06-03,GB Womens Masters,SMOG Women,15,7
+Windfarm,2023-06-03,GB Womens Masters,Spice,15,6
+Windfarm,2023-06-03,Guildford Ultimate Women,Yorkshire Women,10,4
+Windfarm,2023-06-03,Ice Age,GB U20 Women,15,0
+Windfarm,2023-06-03,Ice Age,Lemmings 1,15,5
+Windfarm,2023-06-03,Ireland U24 Women,GB U20 Women,12,5
+Windfarm,2023-06-03,Lemmings 1,Bristol Women,10,5
+Windfarm,2023-06-03,SMOG Women,GB U24 Women,12,9
+Windfarm,2023-06-03,SMOG Women,Horizon,12,7
+Windfarm,2023-06-03,SYC,Lemmings 1,11,9
+Windfarm,2023-06-03,Spice,Ireland U24 Women,13,8
+Windfarm,2023-06-04,Brighton Ultimate Women,Chameleons,13,7
+Windfarm,2023-06-04,Brighton Ultimate Women,Guildford Ultimate Women,9,6
+Windfarm,2023-06-04,Bristol Women,Spice,11,9
+Windfarm,2023-06-04,Chameleons,Flyght Women,9,6
+Windfarm,2023-06-04,GB U20 Women,Brighton Ultimate Women,13,5
+Windfarm,2023-06-04,GB U20 Women,Yorkshire Women,15,1
+Windfarm,2023-06-04,GB U24 Women,Ireland U24 Women,10,8
+Windfarm,2023-06-04,GB U24 Women,Lemmings 1,10,9
+Windfarm,2023-06-04,GB U24 Women,SYC,11,9
+Windfarm,2023-06-04,GB Women,Ice Age,15,10
+Windfarm,2023-06-04,GB Women,SMOG Women,15,8
+Windfarm,2023-06-04,Guildford Ultimate Women,Flyght Women,8,7
+Windfarm,2023-06-04,Guildford Ultimate Women,Yorkshire Women,10,4
+Windfarm,2023-06-04,Horizon,Chameleons,15,1
+Windfarm,2023-06-04,Horizon,GB U20 Women,10,8
+Windfarm,2023-06-04,Ice Age,GB Womens Masters,15,13
+Windfarm,2023-06-04,Lemmings 1,Bristol Women,11,8
+Windfarm,2023-06-04,Lemmings 1,Spice,10,9
+Windfarm,2023-06-04,SMOG Women,GB Womens Masters,14,13
+Windfarm,2023-06-04,SYC,Bristol Women,11,8
+Windfarm,2023-06-04,SYC,Ireland U24 Women,11,8
+Windfarm,2023-06-04,Spice,Ireland U24 Women,12,7
+August Edition,2023-08-12,Brighton,Mint @ August Edition,10,4
+August Edition,2023-08-12,Bristol,Brighton,15,0
+August Edition,2023-08-12,Bristol,Brixton,15,3
+August Edition,2023-08-12,Iceni,Bristol,13,9
+August Edition,2023-08-12,Iceni,Brixton,15,1
+August Edition,2023-08-12,Iceni,Mint @ August Edition,15,0
+August Edition,2023-08-12,SYC,Brixton,15,2
+August Edition,2023-08-12,SYC,Iceni,9,5
+August Edition,2023-08-12,Spice,Brighton,15,1
+August Edition,2023-08-12,Spice,Mint @ August Edition,15,1
+August Edition,2023-08-12,Spice,SYC,9,8
+August Edition,2023-08-13,Bristol,Mint @ August Edition,15,1
+August Edition,2023-08-13,Bristol,SYC,11,7
+August Edition,2023-08-13,Brixton,Brighton,9,8
+August Edition,2023-08-13,Brixton,Mint @ August Edition,10,5
+August Edition,2023-08-13,Iceni,Brighton,15,0
+August Edition,2023-08-13,Iceni,Spice,12,9
+August Edition,2023-08-13,SYC,Brighton,15,1
+August Edition,2023-08-13,SYC,Mint @ August Edition,15,1
+August Edition,2023-08-13,Spice,Bristol,10,6
+August Edition,2023-08-13,Spice,Brixton,15,3
+Nationals,2023-08-27,Bristol,Chameleons,13,2
+Nationals,2023-08-27,Bristol,Flame,9,8
+Nationals,2023-08-27,Bristol,LMU,10,7
+Nationals,2023-08-27,Flame,Chameleons,13,3
+Nationals,2023-08-27,Gravity,Horizon,13,5
+Nationals,2023-08-27,Gravity,SCRAM,9,7
+Nationals,2023-08-27,Iceni,Bristol,11,8
+Nationals,2023-08-27,Iceni,Chameleons,13,1
+Nationals,2023-08-27,Iceni,Flame,10,4
+Nationals,2023-08-27,Iceni,LMU,9,4
+Nationals,2023-08-27,LMU,Chameleons,13,0
+Nationals,2023-08-27,LMU,Flame,13,3
+Nationals,2023-08-27,SCRAM,Horizon,13,5
+Nationals,2023-08-27,SYC,Gravity,10,6
+Nationals,2023-08-27,SYC,Horizon,9,6
+Nationals,2023-08-27,SYC,SCRAM,9,7
+Nationals,2023-08-27,Spice,Gravity,9,4
+Nationals,2023-08-27,Spice,Horizon,11,4
+Nationals,2023-08-27,Spice,SCRAM,11,6
+Nationals,2023-08-27,Spice,SYC,9,3
+Nationals,2023-08-28,Bristol,Gravity,11,7
+Nationals,2023-08-28,Bristol,Spice,10,9
+Nationals,2023-08-28,Flame,Gravity,12,9
+Nationals,2023-08-28,Flame,Horizon,13,10
+Nationals,2023-08-28,Flame,SYC,11,8
+Nationals,2023-08-28,Horizon,Chameleons,14,6
+Nationals,2023-08-28,Iceni,Bristol,13,10
+Nationals,2023-08-28,Iceni,LMU,11,8
+Nationals,2023-08-28,LMU,SYC,10,8
+Nationals,2023-08-28,LMU,Spice,15,6
+Nationals,2023-08-28,SCRAM,Chameleons,15,7
+Nationals,2023-08-28,SCRAM,Gravity,15,9
+Nationals,2023-08-28,SYC,SCRAM,15,8

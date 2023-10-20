@@ -1,0 +1,29 @@
+ranking.data_preparation - INFO - Preparing data for season 2023, mixed division.
+ranking.data_preparation - INFO - 43 teams defined for the mixed division.
+ranking.data_preparation - INFO - 302 raw games found for the mixed division.
+ranking.process_games - INFO - 84 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 302 valid games found for the mixed division.
+ranking.data_preparation - INFO - CSV files saved to output/2023.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+
+ranking.data_preparation - INFO - Preparing data for season 2023, open division.
+ranking.data_preparation - INFO - 48 teams defined for the open division.
+ranking.data_preparation - INFO - 357 raw games found for the open division.
+ranking.process_games - INFO - 107 matches' W-L reordered in the dataset.
+ranking.process_games - INFO - Forfeit game removed: SOLENT 1 vs Curve Open at August Edition on 2023-08-13.
+ranking.process_games - INFO - Forfeit game removed: Brixton Open vs St Albans Open at August Edition on 2023-08-13.
+ranking.process_games - INFO - Forfeit game removed: Brighton Ultimate vs GB Grand Masters Open at August Edition on 2023-08-13.
+ranking.process_games - INFO - Forfeit game removed: Yorkshire Ultimate vs Lemmings 1 at Regionals North on 2023-07-30.
+ranking.data_preparation - INFO - 353 valid games found for the open division.
+ranking.data_preparation - INFO - CSV files saved to output/2023.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+
+ranking.data_preparation - INFO - Preparing data for season 2023, women division.
+ranking.data_preparation - INFO - 25 teams defined for the women division.
+ranking.data_preparation - INFO - 156 raw games found for the women division.
+ranking.process_games - INFO - 42 matches' W-L reordered in the dataset.
+ranking.process_games - INFO - Forfeit game removed: GB U20 Women Blue vs Brixton at Spring Invite on 2023-04-23.
+ranking.data_preparation - INFO - 155 valid games found for the women division.
+ranking.data_preparation - INFO - CSV files saved to output/2023.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+Mint @ August Edition

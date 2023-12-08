@@ -43,7 +43,7 @@
                 "--season",
                 "2023",
                 "--date",
-                "2023-10-20"
+                "2023-12-08"
             ]
         },
         {
@@ -57,11 +57,11 @@
                 "--input",
                 "output/2023",
                 "--output",
-                "datapane/2023/report.html",
+                "datapane/2023/debug-report.html",
                 "--season",
                 "2023",
                 "--date",
-                "2023-10-20"
+                "2023-12-08"
             ]
         }
     ]

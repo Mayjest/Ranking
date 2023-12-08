@@ -107,7 +107,7 @@ def add_basic_info(args: argparse.Namespace, division: str) -> dp.Group:
     :return: Basic info group for Datapane page
     """
     basic_info = dp.Group(
-        dp.BigNumber(heading="EUF Season", value=args.season),
+        dp.BigNumber(heading="Season", value=args.season),
         dp.BigNumber(heading="Division", value=division.capitalize()),
         dp.BigNumber(heading="Date", value=args.date),
         columns=3,
@@ -132,7 +132,7 @@ def get_summary_page(dataset: GamesDataset, algo_names: t.List[str]) -> dp.Selec
     summary_show = summary_show.reset_index()
     page = dp.Group(
         dp.Group(
-            dp.BigNumber(heading="EUF Teams", value=(
+            dp.BigNumber(heading="UKU Teams", value=(
                 ~dataset.teams.str.contains("@")).sum()),
             dp.BigNumber(heading="All Teams", value=dataset.n_teams),
             dp.BigNumber(heading="Tournaments", value=dataset.n_tournaments),
@@ -169,6 +169,7 @@ def get_summary_for_one_algo(df_summary: pd.DataFrame, algo_name: str) -> dp.Tab
         ["Rank", "Team", "Rating", "Tournaments", "Record",
             "Win Ratio", "Opponent Win Ratio", "Score"]
     ].sort_values(by="Rating", ascending=False)
+    df_summary = df_summary[~df_summary['Team'].str.contains(' @ ')]
     summary_styled = df_summary.style.apply(
         lambda v: (["color:silver;"] if v["Rank"] == "-" else ["color:black;"]) * df_summary.shape[1], axis=1
     ).format(
@@ -297,7 +298,7 @@ def get_tournaments_page(dataset: GamesDataset) -> dp.Table:
         columns={
             "Date_First": "Date First",
             "Date_Last": "Date Last",
-            "N_Teams_EUF": "Teams EUF",
+            "N_Teams_EUF": "UKU Teams",
             "N_Teams_All": "Teams All",
             "N_Games": "Games",
         }
@@ -344,7 +345,7 @@ def get_games_per_tournament_info(dataset: GamesDataset, tournament: str) -> dp.
         dp.BigNumber(heading="Date First",
                      value=tournament_info["Date_First"]),
         dp.BigNumber(heading="Date Last", value=tournament_info["Date_Last"]),
-        dp.BigNumber(heading="EUF Teams",
+        dp.BigNumber(heading="UKU Teams",
                      value=tournament_info["N_Teams_EUF"]),
         dp.BigNumber(heading="All Teams",
                      value=tournament_info["N_Teams_All"]),
@@ -366,7 +367,7 @@ def get_calendar_page(dataset: GamesDataset) -> dp.Table:
         "/" + calendar_show["Calendar_Week"]
     calendar_show["Tournaments (Cum)"] = calendar_show["N_Tournaments"] + \
         " (" + calendar_show["N_Tournaments_Cum"] + ")"
-    calendar_show["Teams EUF (Cum)"] = calendar_show["N_Teams_EUF"] + \
+    calendar_show["UKU Teams (Cum)"] = calendar_show["N_Teams_EUF"] + \
         " (" + calendar_show["N_Teams_EUF_Cum"] + ")"
     calendar_show["Teams All (Cum)"] = calendar_show["N_Teams_All"] + \
         " (" + calendar_show["N_Teams_All_Cum"] + ")"
@@ -374,7 +375,7 @@ def get_calendar_page(dataset: GamesDataset) -> dp.Table:
         " (" + calendar_show["N_Games_Cum"] + ")"
     calendar_show = calendar_show[
         ["Calendar Week", "Date_Start", "Date_End",
-            "Tournaments (Cum)", "Teams EUF (Cum)", "Teams All (Cum)", "Games (Cum)"]
+            "Tournaments (Cum)", "UKU Teams (Cum)", "Teams All (Cum)", "Games (Cum)"]
     ].rename(columns={"Date_Start": "Date Start", "Date_End": "Date End"})
     calendar_styled = calendar_show.style.hide(axis="index")
     return dp.Table(calendar_styled)

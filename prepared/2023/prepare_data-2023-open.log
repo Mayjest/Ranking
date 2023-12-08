@@ -1,0 +1,170 @@
+ranking.data_preparation - INFO - Preparing data for season 2023, open division.
+ranking.data_preparation - INFO - 48 teams defined for the open division.
+ranking.data_preparation - INFO - 879 raw games found for the open division.
+ranking.data_preparation - WARNING - Incorrect team names detected in teams_at_tournaments: ['Devon Ultimate' 'GB Open' 'GB U24 open' 'GB masters' 'GB open']
+ranking.process_games - INFO - 314 matches' W-L reordered in the dataset.
+ranking.process_games - INFO - Forfeit game removed: SOLENT vs Curve at August Edition on 2023-08-13.
+ranking.process_games - INFO - Forfeit game removed: Brixton vs St Albans at August Edition on 2023-08-13.
+ranking.process_games - INFO - Forfeit game removed: Brighton Ultimate vs GB Grand Masters Open at August Edition on 2023-08-13.
+ranking.process_games - INFO - Forfeit game removed: Yorkshire Ultimate vs Lemmings 1 at Regionals North on 2023-07-30.
+ranking.data_preparation - INFO - 875 valid games found for the open division.
+ranking.data_preparation - INFO - CSV files saved to prepared/2023.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+3SB - Open @ Elite Invite
+3SB - Open @ Spring Invite Padova
+3SB - Open @ Vienna Spring Break 2023
+7 Schwaben @ DFV-Pokal Open
+7 Schwaben @ Spring Invite Leuven
+AUT U24 Open @ Vienna Spring Break 2023
+Aarhus Ultimate @ EUCR Gent
+Aarhus Ultimate @ Spring Invite Leuven
+Alba @ UK Nationals
+Alligators @ EUCR Bern
+Alligators @ Spring Invite Padova
+Alligators U20 @ Vienna Spring Break 2023
+Amsterdam Ultimate Club @ EUCR Gent
+Amsterdam Ultimate Club Open @ Windmill
+Armada @ EUCR Gent
+Ars Ludendi @ DFV-Pokal Open
+Austria Open @ Windmill
+Azvarlirea @ EUCQ Timisoara
+BEL U24 @ Toms Tourney
+BFD La Fotta @ Elite Invite
+BFD La Fotta @ Toms Tourney
+BFD LaFotta @ EUCR Bern
+BORA @ Toms Tourney
+Bad Skid @ DFV-Pokal Open
+Bad Skid @ EUCR Gent
+Bad Skid @ Spring Invite Leuven
+Barbarian RFC @ London Invite
+Belgium Open @ London Invite
+Bora @ Spring Invite Leuven
+Bristol Open @ UK Nationals
+Canieporci @ Spring Invite Padova
+Catchup  @ Vienna Spring Break 2023
+Chevron Action Flash @ UK Nationals
+Chilly Ultimate @ Windmill
+Clapham @ UK Nationals
+Condors @ Windmill
+Cotarica Grandes @ EUCR Bern
+Cotarica Grandes @ Spring Invite Padova
+Cotarica Grandes @ Toms Tourney
+Cus Padova Barbastreji @ EUCR Bern
+Cus Padova Barbastreji @ Spring Invite Padova
+Czech Republic Open @ London Invite
+Czech Republic Open @ Windmill
+DEAC FreeBees @ EUCQ Timisoara
+Denmark open @ Toms Tourney
+Disckick @ DFV-Pokal Open
+Dublin Frisbee 7s @ UK Nationals
+ESV München  @ Vienna Spring Break 2023
+ESV München @ Vienna Spring Break 2023
+FUJ @ Vienna Spring Break 2023
+FWD>> @ EUCR Warsaw
+FWD>> @ Spring Invite Padova
+FWD>> @ Vienna Spring Break 2023
+Family Ultimate @ DFV-Pokal Open
+Flying Angels Bern @ EUCR Bern
+Flying Angels Bern @ Spring Invite Padova
+Flying Angels Bern @ Vienna Spring Break 2023
+France Masters Open @ London Invite
+France Open @ Windmill
+FrankN @ DFV-Pokal Open
+FrankN @ Vienna Spring Break 2023
+Freespeed @ EUCR Bern
+Freespeed @ Spring Invite Padova
+Freespeed @ Toms Tourney
+Freezzz Beezzz @ EUCR Gent
+Freezzz Beezzz @ Spring Invite Leuven
+Frizstyle @ Toms Tourney
+Frizzly Bears @ DFV-Pokal Open
+Frizzly Bears @ Spring Invite Leuven
+Frizzly Bears @ Toms Tourney
+Frizzly Bears Aachen @ EUCR Gent
+Gentle Open @ EUCR Gent
+Gentle Open @ Spring Invite Leuven
+Gentle Open @ Windmill
+Gentle open @ Toms Tourney
+Germany Open @ London Invite
+Hard2Fisch @ DFV-Pokal Open
+Hard2Fisch @ Spring Invite Leuven
+Hardfisch @ DFV-Pokal Open
+Hardfisch @ Spring Invite Padova
+Hardfisch @ Windmill
+Heidees @ DFV-Pokal Open
+Heidees @ Elite Invite
+Heidees Open @ EUCR Gent
+Heidees Open @ Windmill
+Helsinki Ultimate @ EUCR Warsaw
+Ireland Open @ Windmill
+Ireland open @ Toms Tourney
+Iznogood @ EUCR Bern
+Iznogood @ Toms Tourney
+JetSet Ultimate Open @ Spring Invite Leuven
+JetSet Ultimate Open @ Toms Tourney
+Ka-Pow! @ UK Nationals
+Københavns Frisbee Klub (KFK) @ EUCR Gent
+LOL @ Vienna Spring Break 2023
+Lahntalknaben @ DFV-Pokal Open
+M.U.C. @ DFV-Pokal Open
+M.U.C. @ EUCR Gent
+M.U.C. @ Spring Invite Padova
+Mooncatchers @ Elite Invite
+Mooncatchers @ Toms Tourney
+Mooncatchers @ Windmill
+NXT @ EUCR Warsaw
+Netherlands open @ Toms Tourney
+Newcastle Brown @ UK Nationals
+Nomadic Tribe @ London Invite
+Otso @ EUCR Warsaw
+Outsiterz @ EUCQ Timisoara
+Outsiterz @ EUCR Warsaw
+Outsiterz @ Spring Invite Padova
+PELT Ultimate @ UK Nationals
+Panthers Bern @ EUCR Bern
+Panthers Bern @ Spring Invite Padova
+Panthers Bern @ Toms Tourney
+Panthers Wroclaw - Open @ Spring Invite Padova
+Panthers Wroclaw - Open @ Vienna Spring Break 2023
+Panthers Wroclaw @ Windmill
+Panthers Wrocław @ EUCR Warsaw
+PirU @ EUCR Warsaw
+Prague Devils @ EUCR Warsaw
+Ranelagh @ Elite Invite
+Ranelagh @ UK Nationals
+Reading Open @ UK Nationals
+Red Bulls @ EUCR Bern
+Red Bulls @ Spring Invite Padova
+Red Bulls @ Toms Tourney
+Red Bulls U20 @ Vienna Spring Break 2023
+Révolution'air @ Spring Invite Leuven
+SLOVENIA @ EUCR Warsaw
+SMASH'D @ UK Nationals
+Slovenia @ Spring Invite Padova
+Solebang @ EUCR Bern
+Spain open @ Toms Tourney
+Sturm und Drang @ DFV-Pokal Open
+Switzerland Open @ Windmill
+TUGA (Portugal Open) @ Windmill
+Tchac @ EUCR Bern
+Tchac @ Toms Tourney
+Terrible Monkeys @ EUCR Warsaw
+Terrible Monkeys @ Spring Invite Leuven
+Terrible Monkeys @ Vienna Spring Break 2023
+Top of Nord Italy @ Windmill
+Triglav @ EUCQ Timisoara
+UFO @ Spring Invite Leuven
+Uprising @ EUCR Warsaw
+Uprising @ Spring Invite Leuven
+Uprising @ Vienna Spring Break 2023
+Vertigo @ Toms Tourney
+Wall City @ DFV-Pokal Open
+Wall City @ EUCR Gent
+Wall City @ Elite Invite
+Wall City @ Toms Tourney
+XVI @ Spring Invite Leuven
+XVI @ UK Nationals
+bHOENIX @ Windmill
+thebigEZ @ EUCR Warsaw
+thebigEZ @ Spring Invite Padova
+thebigEZ @ Vienna Spring Break 2023

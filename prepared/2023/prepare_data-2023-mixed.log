@@ -1,0 +1,152 @@
+ranking.data_preparation - INFO - Preparing data for season 2023, mixed division.
+ranking.data_preparation - INFO - 43 teams defined for the mixed division.
+ranking.data_preparation - INFO - 783 raw games found for the mixed division.
+ranking.process_games - INFO - 291 matches' W-L reordered in the dataset.
+ranking.process_games - INFO - Forfeit game removed: Zoom Ultimate @ EUCR Istanbul vs Iron Force Armenia @ EUCR Istanbul at EUCR Istanbul on 2023-06-11.
+ranking.process_games - INFO - Forfeit game removed: Seahawks Ultimate @ EUCR Istanbul vs Iron Force Armenia @ EUCR Istanbul at EUCR Istanbul on 2023-06-11.
+ranking.process_games - INFO - Forfeit game removed: Transylvania Ultimate @ EUCR Istanbul vs Iron Force Armenia @ EUCR Istanbul at EUCR Istanbul on 2023-06-11.
+ranking.data_preparation - INFO - 780 valid games found for the mixed division.
+ranking.data_preparation - INFO - CSV files saved to prepared/2023.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+AKS ZŁY ULTIMATE @ EUCR Brno
+AUC Mxxxd @ G-Spot
+AUT BeeFire @ EUCR Strasbourg
+Antwerp Mixed @ G-Spot
+Austria Mixed @ Windmill
+BN1 @ UK Nationals
+Belgian Mixed Masters @ G-Spot
+Belgium Mixed @ Windmill
+Belgium Mixed National @ G-Spot
+Belgium U20 Mixed @ G-Spot
+Bonnsai @ DFV-Pokal Mixed
+Bremen @ EUCR Malmo
+Bremen Ultimate @ G-Spot
+CUS Bergamo Ultimate @ EUCR Strasbourg
+Catchup Mixed @ EUCR Brno
+Chang Chi and the Legend of 20ish Rings @ Windmill
+Citadel Ultimate Frisbee @ G-Spot
+Colorado @ DFV-Pokal Mixed
+Czech Republic Mixed @ Windmill
+DISConnection @ Spring Invite Padova
+DTU @ EUCR Malmo
+DTU @ Windmill
+Deep Space @ Elite Invite
+Deep Space @ UK Nationals
+Deep Space @ Windmill
+Deine Mudder Bremen @ DFV-Pokal Mixed
+Denmark Mixed @ Windmill
+Disckatus Ultimate Madrid @ Windmill
+DiscoBolo @ EUCR Strasbourg
+Disconnection @ Elite Invite
+Disconnection @ Windmill
+Ellipsis @ Windmill
+Estonia Mixed @ Windmill
+EuroTrash @ Windmill
+FRuBB @ DFV-Pokal Mixed
+FRuBB @ Spring Invite Wroclaw
+FRuBB @ Windmill
+Farmer Brown's Greenhouse (FBG) @ Windmill
+Finland Mixed @ Windmill
+Fireball Ultimate @ EUCR Istanbul
+Fly High @ G-Spot
+FlyHigh @ EUCR Strasbourg
+FlyHigh @ Spring Invite Padova
+Flyght Mixed @ UK Nationals
+Force Elektro MXD @ G-Spot
+Force Elektro MXD @ Windmill
+France Mixed @ Windmill
+Free Spirits @ G-Spot
+Friss die Frisbee @ G-Spot
+Frizstyle FBF @ Windmill
+FucZH @ EUCR Strasbourg
+FucZH @ Spring Invite Padova
+Fusion Falcons Ultimate Club @ Windmill
+GRUT @ EUCR Malmo
+Gentle Mixed @ EUCR Malmo
+Germany Mixed @ Windmill
+Glasgow Mixed @ UK Nationals
+Gold @ Spring Invite Padova
+Great Britain Mixed @ Windmill
+Grut @ Elite Invite
+Grut @ Windmill
+HORANGI @ Windmill
+HoneyMoon @ Spring Invite Padova
+Hucks Ultimate Club Berlin @ DFV-Pokal Mixed
+Hässliche Erdferkel @ Spring Invite Wroclaw
+Ireland Mixed @ Windmill
+Italy Mixed @ Windmill
+Jetset Simba's @ G-Spot
+KS FLOW WROCŁAW @ EUCR Brno
+KS FLOW WROCŁAW @ Spring Invite Wroclaw
+Kingdom of Raptors @ Windmill
+Leamington Lemmings @ Spring Invite Padova
+Left Overs @ EUCR Brno
+Left Overs @ Spring Invite Wroclaw
+Lemmings 1 @ UK Nationals
+Lithuania Mixed @ Windmill
+LoL Mixed Ultimate Team @ Windmill
+Mainzelrenner @ G-Spot
+Malmö Ultimate Club @ EUCR Malmo
+Manchots @ EUCR Strasbourg
+Maultaschen @ DFV-Pokal Mixed
+Monkey Grenoble @ EUCR Strasbourg
+Mosquitos @ EUCR Brno
+Mosquitos @ Elite Invite
+NOISE Ultimate @ Windmill
+Nemesis @ UK Nationals
+Netherlands Master Mixed @ G-Spot
+New Age Mix @ Windmill
+Norway Mixed @ Windmill
+Nullacht! Ultimate @ DFV-Pokal Mixed
+Nullacht! Ultimate @ EUCR Malmo
+OUT @ EUCR Brno
+OldSchool @ EUCR Istanbul
+Owls UC @ EUCR Malmo
+Owls UC @ Spring Invite Padova
+Oxford Ultimate @ G-Spot
+Oxford Ultimate @ UK Nationals
+PUC @ Elite Invite
+PUC @ Windmill
+Pampered cats @ Windmill
+Pelt @ Spring Invite Wroclaw
+Poland Mixed @ Windmill
+Prague Devils @ Spring Invite Wroclaw
+RJP @ Spring Invite Wroclaw
+Rainbow Brigade @ Windmill
+Reading @ Elite Invite
+Reading @ UK Nationals
+Rubber Duckies @ EUCR Brno
+SMOG 1 @ UK Nationals
+SMOG 1 @ Windmill
+SMOG 2 @ UK Nationals
+Savage Ultimate @ EUCR Brno
+Savage Ultimate @ Spring Invite Wroclaw
+Scorillaz @ G-Spot
+Seahawks Ultimate @ EUCR Istanbul
+Seitensprung @ G-Spot
+Sesquidistus @ EUCR Strasbourg
+Sesquidistus @ Elite Invite
+Shopski Otryad @ EUCR Istanbul
+Smog @ Elite Invite
+Spinners @ G-Spot
+Steamhuck @ EUCR Istanbul
+Steamhuck @ Windmill
+Swedish Royals @ Windmill
+Switzerland Mixed @ Windmill
+TV Bad Rappenau @ DFV-Pokal Mixed
+Tartu Turbulence @ EUCR Malmo
+Thundering Herd @ UK Nationals
+Tiefseetaucher @ DFV-Pokal Mixed
+Too Many Cooks @ G-Spot
+Too many cooks @ Windmill
+Transylvania Ultimate @ EUCR Istanbul
+Transylvania Ultimate @ Spring Invite Wroclaw
+U24 Germany Mixed @ G-Spot
+W.underteam @ G-Spot
+Zamperl @ DFV-Pokal Mixed
+ZomBees @ EUCR Brno
+ZomBees @ G-Spot
+Zombees @ Spring Invite Padova
+Zoo 1 @ UK Nationals
+Zoom Ultimate @ EUCR Istanbul
+Zoom Ultimate @ Spring Invite Wroclaw

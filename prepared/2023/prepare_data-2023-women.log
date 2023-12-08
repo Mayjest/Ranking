@@ -1,0 +1,113 @@
+ranking.data_preparation - INFO - Preparing data for season 2023, women division.
+ranking.data_preparation - INFO - 26 teams defined for the women division.
+ranking.data_preparation - INFO - 510 raw games found for the women division.
+ranking.data_preparation - WARNING - Incorrect team names detected in teams_at_tournaments: ['GB Womens']
+ranking.process_games - INFO - 161 matches' W-L reordered in the dataset.
+ranking.process_games - INFO - Forfeit game removed: GB U20 Women @ Spring Invite UK vs Brixton @ Spring Invite UK at Spring Invite UK on 2023-04-23.
+ranking.process_games - INFO - Forfeit game removed: GB U20 Women vs Brixton at Spring Invite on 2023-04-23.
+ranking.data_preparation - INFO - 508 valid games found for the women division.
+ranking.data_preparation - INFO - CSV files saved to prepared/2023.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+3SB - Women @ Spring Invite Padova
+3SB - Women @ Vienna Spring Break 2023
+3SB - women @ EUCR Warsaw
+3SB - women @ Elite Invite
+3sb @ Windmill
+AUC @ Toms Tourney
+AUSU24s @ London Invite
+AUT U24 Women @ Vienna Spring Break 2023
+Austria Women @ Windmill
+Austrian Women @ Toms Tourney
+Belgian Women @ Toms Tourney
+Belgium Women @ Windmill
+Bordeaux Ultimate @ Toms Tourney
+Brighton Ultimate @ Spring Invite UK
+Bristol @ Spring Invite UK
+Bristol @ UK Nationals
+Brixton @ Spring Invite UK
+CUS Padova Tane Malefiche @ Spring Invite Padova
+Catchup Women @ Spring Invite Padova
+Catchup Women @ Vienna Spring Break 2023
+Chameleons @ Spring Invite UK
+Chameleons @ UK Nationals
+Cheetahs @ Spring Invite Padova
+Chicas @ Vienna Spring Break 2023
+Crazy Dogs @ Toms Tourney
+Czech Republic Women @ Windmill
+Czech Women @ Toms Tourney
+DESKEAGH @ Toms Tourney
+DiscoBolo @ Spring Invite Padova
+Dublin Gravity @ Spring Invite UK
+Dublin Gravity @ UK Nationals
+East Block @ EUCR Warsaw
+East Block @ Spring Invite Padova
+East Block @ Vienna Spring Break 2023
+Electroclit @ Windmill
+FABulous @ EUCR Gent
+FABulous @ Elite Invite
+Family Ultimate @ Toms Tourney
+Flame @ UK Nationals
+France Women @ Toms Tourney
+France Women @ Windmill
+Frizzly Bears Women @ Windmill
+GB Masters Women @ London Invite
+GB U20 Women @ Spring Invite UK
+GB Women @ London Invite
+GBWU24 @ London Invite
+German masters @ Toms Tourney
+Germany U24 @ Toms Tourney
+Germany Women @ Windmill
+Heidees Frauen @ EUCR Gent
+Helgtre @ Toms Tourney
+Horizon @ Spring Invite UK
+Horizon @ UK Nationals
+Iceni @ Spring Invite UK
+Iceni @ UK Nationals
+Ireland Women @ Windmill
+Jetset LUV @ EUCR Gent
+JinX @ Elite Invite
+JinX @ Toms Tourney
+JinX @ Windmill
+LMU @ Spring Invite UK
+LMU @ UK Nationals
+La SÃ©ptima @ Windmill
+Lillipuc @ EUCR Gent
+Mantis @ Vienna Spring Break 2023
+Mermaid lumberjacks @ Windmill
+Mooncup @ EUCR Gent
+NL Women @ Toms Tourney
+Oxford Ultimate @ Spring Invite UK
+Panthers Wroclaw - Women @ Spring Invite Padova
+Panthers Wroclaw - Women @ Toms Tourney
+Panthers Wroclaw @ EUCR Warsaw
+Poland Women @ Windmill
+Reading 1 @ Spring Invite UK
+SCRAM @ Spring Invite UK
+SCRAM @ UK Nationals
+SMOG Women @ Spring Invite UK
+SYC @ Spring Invite UK
+SYC @ UK Nationals
+Seagulls @ EUCR Gent
+Seagulls @ Elite Invite
+Seagulls Hamburg @ Windmill
+Shout @ Elite Invite
+Shout @ Spring Invite Padova
+Shout @ Toms Tourney
+Spain Women @ Toms Tourney
+Spain Women @ Windmill
+Spice Ultimate @ Spring Invite UK
+Spice Ultimate @ UK Nationals
+Swiss Women Ultimate @ Vienna Spring Break 2023
+Switzerland Women @ Windmill
+Tequila Boom Boom @ EUCR Gent
+Tequila Boom Boom @ Spring Invite Padova
+Troubles Warsaw @ EUCR Warsaw
+Wuf. @ EUCR Gent
+Yaka @ Elite Invite
+Yaka @ London Invite
+Zürich Ultimate Swarm @ Vienna Spring Break 2023
+box vienna @ EUCR Warsaw
+box vienna @ Elite Invite
+box vienna @ Spring Invite Padova
+box vienna @ Vienna Spring Break 2023
+troubles @ Vienna Spring Break 2023

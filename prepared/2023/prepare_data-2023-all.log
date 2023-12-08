@@ -1,29 +1,376 @@
 ranking.data_preparation - INFO - Preparing data for season 2023, mixed division.
-ranking.data_preparation - INFO - 43 teams defined for the mixed division.
-ranking.data_preparation - INFO - 302 raw games found for the mixed division.
-ranking.process_games - INFO - 84 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 302 valid games found for the mixed division.
+ranking.data_preparation - INFO - 44 teams defined for the mixed division.
+ranking.data_preparation - INFO - 753 raw games found for the mixed division.
+ranking.process_games - INFO - 284 matches' W-L reordered in the dataset.
+ranking.process_games - INFO - Forfeit game removed: Zoom Ultimate @ EUCR Istanbul vs Iron Force Armenia @ EUCR Istanbul at EUCR Istanbul on 2023-06-11.
+ranking.process_games - INFO - Forfeit game removed: Seahawks Ultimate @ EUCR Istanbul vs Iron Force Armenia @ EUCR Istanbul at EUCR Istanbul on 2023-06-11.
+ranking.process_games - INFO - Forfeit game removed: Transylvania Ultimate @ EUCR Istanbul vs Iron Force Armenia @ EUCR Istanbul at EUCR Istanbul on 2023-06-11.
+ranking.data_preparation - INFO - 750 valid games found for the mixed division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2023.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
-
+AKS ZŁY ULTIMATE @ EUCR Brno
+AUC Mxxxd @ G-Spot
+AUT BeeFire @ EUCR Strasbourg
+Antwerp Mixed @ G-Spot
+Austria Mixed @ Windmill
+Belgian Mixed Masters @ G-Spot
+Belgium Mixed @ Windmill
+Belgium Mixed National @ G-Spot
+Belgium U20 Mixed @ G-Spot
+Bonnsai @ DFV-Pokal Mixed
+Bremen @ EUCR Malmo
+Bremen Ultimate @ G-Spot
+CUS Bergamo Ultimate @ EUCR Strasbourg
+Catchup Mixed @ EUCR Brno
+Chang Chi and the Legend of 20ish Rings @ Windmill
+Citadel Ultimate Frisbee @ G-Spot
+Colorado @ DFV-Pokal Mixed
+Czech Republic Mixed @ Windmill
+DISConnection @ Spring Invite Padova
+DTU @ EUCR Malmo
+DTU @ Windmill
+Deep Space @ Elite Invite
+Deine Mudder Bremen @ DFV-Pokal Mixed
+Denmark Mixed @ Windmill
+Disckatus Ultimate Madrid @ Windmill
+DiscoBolo @ EUCR Strasbourg
+Disconnection @ Elite Invite
+Disconnection @ Windmill
+Ellipsis @ Windmill
+Estonia Mixed @ Windmill
+EuroTrash @ Windmill
+FRuBB @ DFV-Pokal Mixed
+FRuBB @ Spring Invite Wroclaw
+FRuBB @ Windmill
+Farmer Brown's Greenhouse (FBG) @ Windmill
+Finland Mixed @ Windmill
+Fireball Ultimate @ EUCR Istanbul
+Fly High @ G-Spot
+FlyHigh @ EUCR Strasbourg
+FlyHigh @ Spring Invite Padova
+Force Elektro MXD @ G-Spot
+Force Elektro MXD @ Windmill
+France Mixed @ Windmill
+Free Spirits @ G-Spot
+Friss die Frisbee @ G-Spot
+Frizstyle FBF @ Windmill
+FucZH @ EUCR Strasbourg
+FucZH @ Spring Invite Padova
+Fusion Falcons Ultimate Club @ Windmill
+GRUT @ EUCR Malmo
+Gentle Mixed @ EUCR Malmo
+Germany Mixed @ Windmill
+Gold @ Spring Invite Padova
+Grut @ Elite Invite
+Grut @ Windmill
+HORANGI @ Windmill
+HoneyMoon @ Spring Invite Padova
+Hucks Ultimate Club Berlin @ DFV-Pokal Mixed
+Hässliche Erdferkel @ Spring Invite Wroclaw
+Ireland Mixed @ Windmill
+Italy Mixed @ Windmill
+Jetset Simba's @ G-Spot
+KS FLOW WROCŁAW @ EUCR Brno
+KS FLOW WROCŁAW @ Spring Invite Wroclaw
+Kingdom of Raptors @ Windmill
+Left Overs @ EUCR Brno
+Left Overs @ Spring Invite Wroclaw
+Lithuania Mixed @ Windmill
+LoL Mixed Ultimate Team @ Windmill
+Mainzelrenner @ G-Spot
+Malmö Ultimate Club @ EUCR Malmo
+Manchots @ EUCR Strasbourg
+Maultaschen @ DFV-Pokal Mixed
+Monkey Grenoble @ EUCR Strasbourg
+Mosquitos @ EUCR Brno
+Mosquitos @ Elite Invite
+NOISE Ultimate @ Windmill
+Netherlands Master Mixed @ G-Spot
+New Age Mix @ Windmill
+Norway Mixed @ Windmill
+Nullacht! Ultimate @ DFV-Pokal Mixed
+Nullacht! Ultimate @ EUCR Malmo
+OUT @ EUCR Brno
+OldSchool @ EUCR Istanbul
+Owls UC @ EUCR Malmo
+Owls UC @ Spring Invite Padova
+PUC @ Elite Invite
+PUC @ Windmill
+Pampered cats @ Windmill
+Pelt @ Spring Invite Wroclaw
+Poland Mixed @ Windmill
+Prague Devils @ Spring Invite Wroclaw
+RJP @ Spring Invite Wroclaw
+Rainbow Brigade @ Windmill
+Rubber Duckies @ EUCR Brno
+Savage Ultimate @ EUCR Brno
+Savage Ultimate @ Spring Invite Wroclaw
+Scorillaz @ G-Spot
+Seahawks Ultimate @ EUCR Istanbul
+Seitensprung @ G-Spot
+Sesquidistus @ EUCR Strasbourg
+Sesquidistus @ Elite Invite
+Shopski Otryad @ EUCR Istanbul
+Spinners @ G-Spot
+Steamhuck @ EUCR Istanbul
+Steamhuck @ Windmill
+Swedish Royals @ Windmill
+Switzerland Mixed @ Windmill
+TV Bad Rappenau @ DFV-Pokal Mixed
+Tartu Turbulence @ EUCR Malmo
+Tiefseetaucher @ DFV-Pokal Mixed
+Too Many Cooks @ G-Spot
+Too many cooks @ Windmill
+Transylvania Ultimate @ EUCR Istanbul
+Transylvania Ultimate @ Spring Invite Wroclaw
+U24 Germany Mixed @ G-Spot
+W.underteam @ G-Spot
+Zamperl @ DFV-Pokal Mixed
+ZomBees @ EUCR Brno
+ZomBees @ G-Spot
+Zombees @ Spring Invite Padova
+Zoom Ultimate @ EUCR Istanbul
+Zoom Ultimate @ Spring Invite Wroclaw
 ranking.data_preparation - INFO - Preparing data for season 2023, open division.
 ranking.data_preparation - INFO - 48 teams defined for the open division.
-ranking.data_preparation - INFO - 357 raw games found for the open division.
-ranking.process_games - INFO - 107 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 848 raw games found for the open division.
+ranking.data_preparation - WARNING - Incorrect team names detected in teams_at_tournaments: ['Devon Ultimate' 'GB Open' 'GB U24 open' 'GB masters' 'GB open']
+ranking.process_games - INFO - 307 matches' W-L reordered in the dataset.
 ranking.process_games - INFO - Forfeit game removed: SOLENT vs Curve at August Edition on 2023-08-13.
 ranking.process_games - INFO - Forfeit game removed: Brixton vs St Albans at August Edition on 2023-08-13.
 ranking.process_games - INFO - Forfeit game removed: Brighton Ultimate vs GB Grand Masters Open at August Edition on 2023-08-13.
 ranking.process_games - INFO - Forfeit game removed: Yorkshire Ultimate vs Lemmings 1 at Regionals North on 2023-07-30.
-ranking.data_preparation - INFO - 353 valid games found for the open division.
+ranking.data_preparation - INFO - 844 valid games found for the open division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2023.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
-
+3SB - Open @ Elite Invite
+3SB - Open @ Spring Invite Padova
+3SB - Open @ Vienna Spring Break 2023
+7 Schwaben @ DFV-Pokal Open
+7 Schwaben @ Spring Invite Leuven
+AUT U24 Open @ Vienna Spring Break 2023
+Aarhus Ultimate @ EUCR Gent
+Aarhus Ultimate @ Spring Invite Leuven
+Alligators @ EUCR Bern
+Alligators @ Spring Invite Padova
+Alligators U20 @ Vienna Spring Break 2023
+Amsterdam Ultimate Club @ EUCR Gent
+Amsterdam Ultimate Club Open @ Windmill
+Armada @ EUCR Gent
+Ars Ludendi @ DFV-Pokal Open
+Austria Open @ Windmill
+Azvarlirea @ EUCQ Timisoara
+BEL U24 @ Toms Tourney
+BFD La Fotta @ Elite Invite
+BFD La Fotta @ Toms Tourney
+BFD LaFotta @ EUCR Bern
+BORA @ Toms Tourney
+Bad Skid @ DFV-Pokal Open
+Bad Skid @ EUCR Gent
+Bad Skid @ Spring Invite Leuven
+Barbarian RFC @ London Invite
+Belgium Open @ London Invite
+Bora @ Spring Invite Leuven
+Canieporci @ Spring Invite Padova
+Catchup  @ Vienna Spring Break 2023
+Chilly Ultimate @ Windmill
+Condors @ Windmill
+Cotarica Grandes @ EUCR Bern
+Cotarica Grandes @ Spring Invite Padova
+Cotarica Grandes @ Toms Tourney
+Cus Padova Barbastreji @ EUCR Bern
+Cus Padova Barbastreji @ Spring Invite Padova
+Czech Republic Open @ London Invite
+Czech Republic Open @ Windmill
+DEAC FreeBees @ EUCQ Timisoara
+Denmark open @ Toms Tourney
+Disckick @ DFV-Pokal Open
+ESV München  @ Vienna Spring Break 2023
+ESV München @ Vienna Spring Break 2023
+FUJ @ Vienna Spring Break 2023
+FWD>> @ EUCR Warsaw
+FWD>> @ Spring Invite Padova
+FWD>> @ Vienna Spring Break 2023
+Family Ultimate @ DFV-Pokal Open
+Flying Angels Bern @ EUCR Bern
+Flying Angels Bern @ Spring Invite Padova
+Flying Angels Bern @ Vienna Spring Break 2023
+France Masters Open @ London Invite
+France Open @ Windmill
+FrankN @ DFV-Pokal Open
+FrankN @ Vienna Spring Break 2023
+Freespeed @ EUCR Bern
+Freespeed @ Spring Invite Padova
+Freespeed @ Toms Tourney
+Freezzz Beezzz @ EUCR Gent
+Freezzz Beezzz @ Spring Invite Leuven
+Frizstyle @ Toms Tourney
+Frizzly Bears @ DFV-Pokal Open
+Frizzly Bears @ Spring Invite Leuven
+Frizzly Bears @ Toms Tourney
+Frizzly Bears Aachen @ EUCR Gent
+Gentle Open @ EUCR Gent
+Gentle Open @ Spring Invite Leuven
+Gentle Open @ Windmill
+Gentle open @ Toms Tourney
+Germany Open @ London Invite
+Hard2Fisch @ DFV-Pokal Open
+Hard2Fisch @ Spring Invite Leuven
+Hardfisch @ DFV-Pokal Open
+Hardfisch @ Spring Invite Padova
+Hardfisch @ Windmill
+Heidees @ DFV-Pokal Open
+Heidees @ Elite Invite
+Heidees Open @ EUCR Gent
+Heidees Open @ Windmill
+Helsinki Ultimate @ EUCR Warsaw
+Ireland Open @ Windmill
+Ireland open @ Toms Tourney
+Iznogood @ EUCR Bern
+Iznogood @ Toms Tourney
+JetSet Ultimate Open @ Spring Invite Leuven
+JetSet Ultimate Open @ Toms Tourney
+Københavns Frisbee Klub (KFK) @ EUCR Gent
+LOL @ Vienna Spring Break 2023
+Lahntalknaben @ DFV-Pokal Open
+M.U.C. @ DFV-Pokal Open
+M.U.C. @ EUCR Gent
+M.U.C. @ Spring Invite Padova
+Mooncatchers @ Elite Invite
+Mooncatchers @ Toms Tourney
+Mooncatchers @ Windmill
+NXT @ EUCR Warsaw
+Netherlands open @ Toms Tourney
+Nomadic Tribe @ London Invite
+Otso @ EUCR Warsaw
+Outsiterz @ EUCQ Timisoara
+Outsiterz @ EUCR Warsaw
+Outsiterz @ Spring Invite Padova
+Panthers Bern @ EUCR Bern
+Panthers Bern @ Spring Invite Padova
+Panthers Bern @ Toms Tourney
+Panthers Wroclaw - Open @ Spring Invite Padova
+Panthers Wroclaw - Open @ Vienna Spring Break 2023
+Panthers Wroclaw @ Windmill
+Panthers Wrocław @ EUCR Warsaw
+PirU @ EUCR Warsaw
+Prague Devils @ EUCR Warsaw
+Ranelagh @ Elite Invite
+Red Bulls @ EUCR Bern
+Red Bulls @ Spring Invite Padova
+Red Bulls @ Toms Tourney
+Red Bulls U20 @ Vienna Spring Break 2023
+Révolution'air @ Spring Invite Leuven
+SLOVENIA @ EUCR Warsaw
+Slovenia @ Spring Invite Padova
+Solebang @ EUCR Bern
+Spain open @ Toms Tourney
+Sturm und Drang @ DFV-Pokal Open
+Switzerland Open @ Windmill
+TUGA (Portugal Open) @ Windmill
+Tchac @ EUCR Bern
+Tchac @ Toms Tourney
+Terrible Monkeys @ EUCR Warsaw
+Terrible Monkeys @ Spring Invite Leuven
+Terrible Monkeys @ Vienna Spring Break 2023
+Top of Nord Italy @ Windmill
+Triglav @ EUCQ Timisoara
+UFO @ Spring Invite Leuven
+Uprising @ EUCR Warsaw
+Uprising @ Spring Invite Leuven
+Uprising @ Vienna Spring Break 2023
+Vertigo @ Toms Tourney
+Wall City @ DFV-Pokal Open
+Wall City @ EUCR Gent
+Wall City @ Elite Invite
+Wall City @ Toms Tourney
+XVI @ Spring Invite Leuven
+bHOENIX @ Windmill
+thebigEZ @ EUCR Warsaw
+thebigEZ @ Spring Invite Padova
+thebigEZ @ Vienna Spring Break 2023
 ranking.data_preparation - INFO - Preparing data for season 2023, women division.
-ranking.data_preparation - INFO - 26 teams defined for the women division.
-ranking.data_preparation - INFO - 156 raw games found for the women division.
-ranking.process_games - INFO - 42 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 27 teams defined for the women division.
+ranking.data_preparation - INFO - 425 raw games found for the women division.
+ranking.process_games - INFO - 137 matches' W-L reordered in the dataset.
 ranking.process_games - INFO - Forfeit game removed: GB U20 Women vs Brixton at Spring Invite on 2023-04-23.
-ranking.data_preparation - INFO - 155 valid games found for the women division.
+ranking.data_preparation - INFO - 424 valid games found for the women division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2023.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
-
+3SB - Women @ Spring Invite Padova
+3SB - Women @ Vienna Spring Break 2023
+3SB - women @ EUCR Warsaw
+3SB - women @ Elite Invite
+3sb @ Windmill
+AUC @ Toms Tourney
+AUSU24s @ London Invite
+AUT U24 Women @ Vienna Spring Break 2023
+Austria Women @ Windmill
+Austrian Women @ Toms Tourney
+Belgian Women @ Toms Tourney
+Belgium Women @ Windmill
+Bordeaux Ultimate @ Toms Tourney
+CUS Padova Tane Malefiche @ Spring Invite Padova
+Catchup Women @ Spring Invite Padova
+Catchup Women @ Vienna Spring Break 2023
+Cheetahs @ Spring Invite Padova
+Chicas @ Vienna Spring Break 2023
+Crazy Dogs @ Toms Tourney
+Czech Republic Women @ Windmill
+Czech Women @ Toms Tourney
+DESKEAGH @ Toms Tourney
+DiscoBolo @ Spring Invite Padova
+East Block @ EUCR Warsaw
+East Block @ Spring Invite Padova
+East Block @ Vienna Spring Break 2023
+Electroclit @ Windmill
+FABulous @ EUCR Gent
+FABulous @ Elite Invite
+Family Ultimate @ Toms Tourney
+France Women @ Toms Tourney
+France Women @ Windmill
+Frizzly Bears Women @ Windmill
+GB Masters Women @ London Invite
+GBWU24 @ London Invite
+German masters @ Toms Tourney
+Germany U24 @ Toms Tourney
+Germany Women @ Windmill
+Heidees Frauen @ EUCR Gent
+Helgtre @ Toms Tourney
+Ireland Women @ Windmill
+Jetset LUV @ EUCR Gent
+JinX @ Elite Invite
+JinX @ Toms Tourney
+JinX @ Windmill
+La SÃ©ptima @ Windmill
+Lillipuc @ EUCR Gent
+Mantis @ Vienna Spring Break 2023
+Mermaid lumberjacks @ Windmill
+Mooncup @ EUCR Gent
+NL Women @ Toms Tourney
+Panthers Wroclaw - Women @ Spring Invite Padova
+Panthers Wroclaw - Women @ Toms Tourney
+Panthers Wroclaw @ EUCR Warsaw
+Poland Women @ Windmill
+Seagulls @ EUCR Gent
+Seagulls @ Elite Invite
+Seagulls Hamburg @ Windmill
+Shout @ Elite Invite
+Shout @ Spring Invite Padova
+Shout @ Toms Tourney
+Spain Women @ Toms Tourney
+Spain Women @ Windmill
+Swiss Women Ultimate @ Vienna Spring Break 2023
+Switzerland Women @ Windmill
+Tequila Boom Boom @ EUCR Gent
+Tequila Boom Boom @ Spring Invite Padova
+Troubles Warsaw @ EUCR Warsaw
+Wuf. @ EUCR Gent
+Yaka @ Elite Invite
+Yaka @ London Invite
+Zürich Ultimate Swarm @ Vienna Spring Break 2023
+box vienna @ EUCR Warsaw
+box vienna @ Elite Invite
+box vienna @ Spring Invite Padova
+box vienna @ Vienna Spring Break 2023
+troubles @ Vienna Spring Break 2023

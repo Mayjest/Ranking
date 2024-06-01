@@ -4,9 +4,9 @@ Define all important constants in this file.
 from classes.block_ranking_algorithm import BlockRankingAlgorithm
 
 # Ranking eligibility requirements
-MIN_TOURNAMENTS = 2
-MIN_GAMES = 10
-MIN_INTERCONNECTIVITY = 25
+MIN_TOURNAMENTS = 1
+MIN_GAMES = 5
+MIN_INTERCONNECTIVITY = 10
 MAX_COMPONENT_REQUIRED = True
 
 

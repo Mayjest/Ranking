@@ -1,6 +1,6 @@
 Tournament,Date,Team_1,Team_2,Score_1,Score_2
 Mixed Imperial 2024,2024-03-23,BN1,Oxford Ultimate,11,4
-Mixed Imperial 2024,2024-03-23,Bermondsey Bombers,SOLENT White,9,8
+Mixed Imperial 2024,2024-03-23,Bermondsey Bombers,SOLENT,9,8
 Mixed Imperial 2024,2024-03-23,Bermondsey Bombers,Zoo 1,15,2
 Mixed Imperial 2024,2024-03-23,Bristol Mixed,Brixton,8,5
 Mixed Imperial 2024,2024-03-23,Bristol Mixed,Cambridge Ultimate,15,3
@@ -13,12 +13,12 @@ Mixed Imperial 2024,2024-03-23,Deep Space,Lemmings 2,13,6
 Mixed Imperial 2024,2024-03-23,Deep Space,Thundering Herd 1,10,5
 Mixed Imperial 2024,2024-03-23,Flyght Mixed,Curve,13,7
 Mixed Imperial 2024,2024-03-23,Flyght Mixed,Mamak,14,3
-Mixed Imperial 2024,2024-03-23,GB Mixed Blue,BN1,13,1
-Mixed Imperial 2024,2024-03-23,GB Mixed Blue,Lemmings 1,15,5
-Mixed Imperial 2024,2024-03-23,GB Mixed Blue,Oxford Ultimate,15,4
-Mixed Imperial 2024,2024-03-23,GB Mixed Red,Deep Space,11,8
-Mixed Imperial 2024,2024-03-23,GB Mixed Red,Lemmings 2,11,6
-Mixed Imperial 2024,2024-03-23,GB Mixed Red,Thundering Herd 1,15,5
+Mixed Imperial 2024,2024-03-23,GB Mixed,BN1,13,1
+Mixed Imperial 2024,2024-03-23,GB Mixed,Deep Space,11,8
+Mixed Imperial 2024,2024-03-23,GB Mixed,Lemmings 1,15,5
+Mixed Imperial 2024,2024-03-23,GB Mixed,Lemmings 2,11,6
+Mixed Imperial 2024,2024-03-23,GB Mixed,Oxford Ultimate,15,4
+Mixed Imperial 2024,2024-03-23,GB Mixed,Thundering Herd 1,15,5
 Mixed Imperial 2024,2024-03-23,LLLeeds Mixed 1,Bermondsey Bombers,8,4
 Mixed Imperial 2024,2024-03-23,LLLeeds Mixed 1,Zoo 1,11,4
 Mixed Imperial 2024,2024-03-23,Lemmings 1,BN1,10,9
@@ -27,16 +27,16 @@ Mixed Imperial 2024,2024-03-23,Lemmings 2,Thundering Herd 1,12,5
 Mixed Imperial 2024,2024-03-23,Muntjacs Ultimate,Black Sheep,11,3
 Mixed Imperial 2024,2024-03-23,Muntjacs Ultimate,Reading,12,6
 Mixed Imperial 2024,2024-03-23,Reading,Black Sheep,10,8
-Mixed Imperial 2024,2024-03-23,SOLENT Blue,Bristol Mixed,8,7
-Mixed Imperial 2024,2024-03-23,SOLENT Blue,Brixton,12,8
-Mixed Imperial 2024,2024-03-23,SOLENT Blue,Cambridge Ultimate,14,6
-Mixed Imperial 2024,2024-03-23,SOLENT White,LLLeeds Mixed 1,9,6
-Mixed Imperial 2024,2024-03-23,SOLENT White,Zoo 1,10,1
+Mixed Imperial 2024,2024-03-23,SOLENT,Bristol Mixed,8,7
+Mixed Imperial 2024,2024-03-23,SOLENT,Brixton,12,8
+Mixed Imperial 2024,2024-03-23,SOLENT,Cambridge Ultimate,14,6
+Mixed Imperial 2024,2024-03-23,SOLENT,LLLeeds Mixed 1,9,6
+Mixed Imperial 2024,2024-03-23,SOLENT,Zoo 1,10,1
 Mixed Imperial 2024,2024-03-23,Sheffield Steal,Curve,9,5
 Mixed Imperial 2024,2024-03-23,Sheffield Steal,Flyght Mixed,8,5
 Mixed Imperial 2024,2024-03-23,Sheffield Steal,Mamak,15,3
 Mixed Imperial 2024,2024-03-24,BN1,Contested 1st,11,5
-Mixed Imperial 2024,2024-03-24,BN1,SOLENT Blue,11,3
+Mixed Imperial 2024,2024-03-24,BN1,SOLENT,11,3
 Mixed Imperial 2024,2024-03-24,Bermondsey Bombers,Muntjacs Ultimate,12,5
 Mixed Imperial 2024,2024-03-24,Bermondsey Bombers,Reading,11,5
 Mixed Imperial 2024,2024-03-24,Black Sheep,Zoo 1,15,2
@@ -52,126 +52,126 @@ Mixed Imperial 2024,2024-03-24,Curve,Muntjacs Ultimate,9,7
 Mixed Imperial 2024,2024-03-24,Deep Space,Lemmings 1,15,11
 Mixed Imperial 2024,2024-03-24,Flyght Mixed,LLLeeds Mixed 1,12,5
 Mixed Imperial 2024,2024-03-24,Flyght Mixed,Reading,10,2
-Mixed Imperial 2024,2024-03-24,GB Mixed Blue,Deep Space,15,5
-Mixed Imperial 2024,2024-03-24,GB Mixed Blue,GB Mixed Red,15,14
-Mixed Imperial 2024,2024-03-24,GB Mixed Red,Lemmings 1,15,11
+Mixed Imperial 2024,2024-03-24,GB Mixed,Deep Space,15,5
+Mixed Imperial 2024,2024-03-24,GB Mixed,GB Mixed,15,14
+Mixed Imperial 2024,2024-03-24,GB Mixed,Lemmings 1,15,11
 Mixed Imperial 2024,2024-03-24,LLLeeds Mixed 1,Brixton,8,7
 Mixed Imperial 2024,2024-03-24,Lemmings 2,BN1,13,8
-Mixed Imperial 2024,2024-03-24,Lemmings 2,SOLENT White,13,6
+Mixed Imperial 2024,2024-03-24,Lemmings 2,SOLENT,13,6
 Mixed Imperial 2024,2024-03-24,Lemmings 2,Sheffield Steal,15,7
 Mixed Imperial 2024,2024-03-24,Mamak,Zoo 1,11,3
 Mixed Imperial 2024,2024-03-24,Reading,Brixton,12,5
-Mixed Imperial 2024,2024-03-24,SOLENT Blue,Oxford Ultimate,13,6
-Mixed Imperial 2024,2024-03-24,SOLENT White,Oxford Ultimate,11,10
+Mixed Imperial 2024,2024-03-24,SOLENT,Oxford Ultimate,11,10
+Mixed Imperial 2024,2024-03-24,SOLENT,Oxford Ultimate,13,6
 Mixed Imperial 2024,2024-03-24,Sheffield Steal,Contested 1st,14,9
 Mixed Imperial 2024,2024-03-24,Sheffield Steal,Oxford Ultimate,13,6
-Mixed Imperial 2024,2024-03-24,Thundering Herd 1,SOLENT Blue,10,9
-Mixed Imperial 2024,2024-03-24,Thundering Herd 1,SOLENT White,15,7
+Mixed Imperial 2024,2024-03-24,Thundering Herd 1,SOLENT,10,9
+Mixed Imperial 2024,2024-03-24,Thundering Herd 1,SOLENT,15,7
 Uni Fans 2024,2024-04-13,Big Fish Little Fish,Black Sheep,10,8
-Uni Fans 2024,2024-04-13,Big Fish Little Fish,Zoo,8,3
-Uni Fans 2024,2024-04-13,Black Sheep,Zoo,10,4
+Uni Fans 2024,2024-04-13,Big Fish Little Fish,Zoo 1,8,3
+Uni Fans 2024,2024-04-13,Black Sheep,Zoo 1,10,4
 Uni Fans 2024,2024-04-13,Bristol Mixed,Sheffield Steal,11,5
 Uni Fans 2024,2024-04-13,Brixton,Flyght Mixed 2,8,7
 Uni Fans 2024,2024-04-13,Brixton,Thundering Herd 2,9,5
-Uni Fans 2024,2024-04-13,Flyght Mixed,Contested 1,9,8
+Uni Fans 2024,2024-04-13,Flyght Mixed,Contested 1st,9,8
 Uni Fans 2024,2024-04-13,Flyght Mixed,SOLENT,10,9
-Uni Fans 2024,2024-04-13,Flyght Mixed 2,LLLeeds,8,5
+Uni Fans 2024,2024-04-13,Flyght Mixed 2,LLLeeds Mixed 1,8,5
 Uni Fans 2024,2024-04-13,Flyght Mixed 2,Thundering Herd 2,7,4
 Uni Fans 2024,2024-04-13,Heck,Bristol Mixed,7,5
 Uni Fans 2024,2024-04-13,Heck,Sheffield Steal,9,8
 Uni Fans 2024,2024-04-13,Heck,Thundering Herd 1,7,6
-Uni Fans 2024,2024-04-13,LLLeeds,Brixton,8,4
-Uni Fans 2024,2024-04-13,Lemmings 1,Contested 1,13,5
+Uni Fans 2024,2024-04-13,LLLeeds Mixed 1,Brixton,8,4
+Uni Fans 2024,2024-04-13,Lemmings 1,Contested 1st,13,5
 Uni Fans 2024,2024-04-13,Lemmings 1,Flyght Mixed,12,7
 Uni Fans 2024,2024-04-13,Lemmings 1,SOLENT,13,4
 Uni Fans 2024,2024-04-13,Newcastle Brown,Big Fish Little Fish,10,6
 Uni Fans 2024,2024-04-13,Newcastle Brown,Black Sheep,12,7
-Uni Fans 2024,2024-04-13,Newcastle Brown,Zoo,10,7
-Uni Fans 2024,2024-04-13,SOLENT,Contested 1,9,5
+Uni Fans 2024,2024-04-13,Newcastle Brown,Zoo 1,10,7
+Uni Fans 2024,2024-04-13,SOLENT,Contested 1st,9,5
 Uni Fans 2024,2024-04-13,Thundering Herd 1,Bristol Mixed,13,7
 Uni Fans 2024,2024-04-13,Thundering Herd 1,Sheffield Steal,10,7
-Uni Fans 2024,2024-04-13,Thundering Herd 2,LLLeeds,8,4
+Uni Fans 2024,2024-04-13,Thundering Herd 2,LLLeeds Mixed 1,8,4
 Uni Fans 2024,2024-04-14,Bristol Mixed,Big Fish Little Fish,12,4
 Uni Fans 2024,2024-04-14,Bristol Mixed,Brixton,13,4
-Uni Fans 2024,2024-04-14,Brixton,Contested 1,10,9
+Uni Fans 2024,2024-04-14,Brixton,Contested 1st,10,9
 Uni Fans 2024,2024-04-14,Brixton,Sheffield Steal,8,6
-Uni Fans 2024,2024-04-14,Contested 1,Big Fish Little Fish,9,8
+Uni Fans 2024,2024-04-14,Contested 1st,Big Fish Little Fish,9,8
 Uni Fans 2024,2024-04-14,Flyght Mixed,Heck,12,7
 Uni Fans 2024,2024-04-14,Flyght Mixed 2,Big Fish Little Fish,9,8
-Uni Fans 2024,2024-04-14,LLLeeds,Black Sheep,15,11
-Uni Fans 2024,2024-04-14,LLLeeds,Thundering Herd 2,8,7
+Uni Fans 2024,2024-04-14,LLLeeds Mixed 1,Black Sheep,15,11
+Uni Fans 2024,2024-04-14,LLLeeds Mixed 1,Thundering Herd 2,8,7
 Uni Fans 2024,2024-04-14,Lemmings 1,Flyght Mixed,10,8
 Uni Fans 2024,2024-04-14,Lemmings 1,Thundering Herd 1,12,11
-Uni Fans 2024,2024-04-14,Newcastle Brown,Contested 1,11,10
+Uni Fans 2024,2024-04-14,Newcastle Brown,Contested 1st,11,10
 Uni Fans 2024,2024-04-14,Newcastle Brown,Flyght Mixed 2,10,7
 Uni Fans 2024,2024-04-14,SOLENT,Bristol Mixed,12,9
 Uni Fans 2024,2024-04-14,SOLENT,Flyght Mixed 2,9,8
 Uni Fans 2024,2024-04-14,SOLENT,Sheffield Steal,9,6
 Uni Fans 2024,2024-04-14,Sheffield Steal,Newcastle Brown,8,7
 Uni Fans 2024,2024-04-14,Thundering Herd 1,Heck,13,8
-Uni Fans 2024,2024-04-14,Thundering Herd 2,Zoo,11,7
-Uni Fans 2024,2024-04-14,Zoo,Black Sheep,12,10
-Manchester Mayhem 2024,2024-05-11,Big Fish Little Fish,Black Sheep's Back,15,6
+Uni Fans 2024,2024-04-14,Thundering Herd 2,Zoo 1,11,7
+Uni Fans 2024,2024-04-14,Zoo 1,Black Sheep,12,10
+Manchester Mayhem 2024,2024-05-11,Big Fish Little Fish,Black Sheep,15,6
 Manchester Mayhem 2024,2024-05-11,Big Fish Little Fish,Curve,14,3
-Manchester Mayhem 2024,2024-05-11,Big Fish Little Fish,Mamak Ultimate,13,9
-Manchester Mayhem 2024,2024-05-11,Black Sheep's Back,Curve,14,6
-Manchester Mayhem 2024,2024-05-11,Black Sheep's Front,Red,14,7
-Manchester Mayhem 2024,2024-05-11,Contested 1,Heck,12,10
+Manchester Mayhem 2024,2024-05-11,Big Fish Little Fish,Mamak,13,9
+Manchester Mayhem 2024,2024-05-11,Black Sheep,Curve,14,6
+Manchester Mayhem 2024,2024-05-11,Black Sheep,Red,14,7
+Manchester Mayhem 2024,2024-05-11,Contested 1st,Heck,12,10
 Manchester Mayhem 2024,2024-05-11,Flyght Mixed,GUXYZ,13,12
 Manchester Mayhem 2024,2024-05-11,Flyght Mixed,Newcastle Brown,13,12
-Manchester Mayhem 2024,2024-05-11,LLLeeds Mixed,Black Sheep's Front,13,10
-Manchester Mayhem 2024,2024-05-11,LLLeeds Mixed,Muntjacs Ultimate,13,11
-Manchester Mayhem 2024,2024-05-11,LLLeeds Mixed,Red,15,5
-Manchester Mayhem 2024,2024-05-11,Mamak Ultimate,Black Sheep's Back,12,9
-Manchester Mayhem 2024,2024-05-11,Mamak Ultimate,Curve,12,9
-Manchester Mayhem 2024,2024-05-11,Muntjacs Ultimate,Black Sheep's Front,12,8
+Manchester Mayhem 2024,2024-05-11,LLLeeds Mixed 1,Black Sheep,13,10
+Manchester Mayhem 2024,2024-05-11,LLLeeds Mixed 1,Muntjacs Ultimate,13,11
+Manchester Mayhem 2024,2024-05-11,LLLeeds Mixed 1,Red,15,5
+Manchester Mayhem 2024,2024-05-11,Mamak,Black Sheep,12,9
+Manchester Mayhem 2024,2024-05-11,Mamak,Curve,12,9
+Manchester Mayhem 2024,2024-05-11,Muntjacs Ultimate,Black Sheep,12,8
 Manchester Mayhem 2024,2024-05-11,Muntjacs Ultimate,Red,10,3
 Manchester Mayhem 2024,2024-05-11,Newcastle Brown,GUXYZ,12,11
-Manchester Mayhem 2024,2024-05-11,Rebel Ultimate,Contested 1,15,6
+Manchester Mayhem 2024,2024-05-11,Rebel Ultimate,Contested 1st,15,6
 Manchester Mayhem 2024,2024-05-11,Rebel Ultimate,Heck,13,8
 Manchester Mayhem 2024,2024-05-11,Rebel Ultimate,Sheffield Steal,12,9
-Manchester Mayhem 2024,2024-05-11,Sheffield Steal,Contested 1,15,10
+Manchester Mayhem 2024,2024-05-11,Sheffield Steal,Contested 1st,15,10
 Manchester Mayhem 2024,2024-05-11,Sheffield Steal,Heck,12,9
 Manchester Mayhem 2024,2024-05-11,Tribe,Flyght Mixed,13,6
 Manchester Mayhem 2024,2024-05-11,Tribe,GUXYZ,14,9
 Manchester Mayhem 2024,2024-05-11,Tribe,Newcastle Brown,15,4
 Moooxed 2024,2024-05-11,BN1,Brixton,15,3
-Moooxed 2024,2024-05-11,BN1,SOLENT Blue,15,5
+Moooxed 2024,2024-05-11,BN1,SOLENT,15,5
 Moooxed 2024,2024-05-11,BN1,Thundering Herd 2,15,8
-Moooxed 2024,2024-05-11,Bristol Mixed,Zoo,14,5
-Moooxed 2024,2024-05-11,SOLENT Blue,Brixton,10,6
-Moooxed 2024,2024-05-11,SOLENT Blue,Thundering Herd 2,14,8
-Moooxed 2024,2024-05-11,SOLENT White,Bristol Mixed,15,9
-Moooxed 2024,2024-05-11,SOLENT White,Zoo,15,5
+Moooxed 2024,2024-05-11,Bristol Mixed,Zoo 1,14,5
+Moooxed 2024,2024-05-11,SOLENT,Bristol Mixed,15,9
+Moooxed 2024,2024-05-11,SOLENT,Brixton,10,6
+Moooxed 2024,2024-05-11,SOLENT,Thundering Herd 2,14,8
+Moooxed 2024,2024-05-11,SOLENT,Zoo 1,15,5
 Moooxed 2024,2024-05-11,Thundering Herd 1,Bristol Mixed,15,2
-Moooxed 2024,2024-05-11,Thundering Herd 1,SOLENT White,14,6
-Moooxed 2024,2024-05-11,Thundering Herd 1,Zoo,15,6
+Moooxed 2024,2024-05-11,Thundering Herd 1,SOLENT,14,6
+Moooxed 2024,2024-05-11,Thundering Herd 1,Zoo 1,15,6
 Moooxed 2024,2024-05-11,Thundering Herd 2,Brixton,10,9
 Manchester Mayhem 2024,2024-05-12,Big Fish Little Fish,GUXYZ,11,9
-Manchester Mayhem 2024,2024-05-12,Black Sheep's Back,Black Sheep's Front,15,12
-Manchester Mayhem 2024,2024-05-12,Black Sheep's Back,Red,11,10
-Manchester Mayhem 2024,2024-05-12,Black Sheep's Front,Curve,15,5
-Manchester Mayhem 2024,2024-05-12,Contested 1,Big Fish Little Fish,13,9
-Manchester Mayhem 2024,2024-05-12,Contested 1,Muntjacs Ultimate,13,9
+Manchester Mayhem 2024,2024-05-12,Black Sheep,Black Sheep,15,12
+Manchester Mayhem 2024,2024-05-12,Black Sheep,Curve,15,5
+Manchester Mayhem 2024,2024-05-12,Black Sheep,Red,11,10
+Manchester Mayhem 2024,2024-05-12,Contested 1st,Big Fish Little Fish,13,9
+Manchester Mayhem 2024,2024-05-12,Contested 1st,Muntjacs Ultimate,13,9
 Manchester Mayhem 2024,2024-05-12,GUXYZ,Muntjacs Ultimate,11,10
-Manchester Mayhem 2024,2024-05-12,Heck,Contested 1,10,7
-Manchester Mayhem 2024,2024-05-12,Heck,LLLeeds Mixed,13,12
+Manchester Mayhem 2024,2024-05-12,Heck,Contested 1st,10,7
+Manchester Mayhem 2024,2024-05-12,Heck,LLLeeds Mixed 1,13,12
 Manchester Mayhem 2024,2024-05-12,Heck,Newcastle Brown,15,4
-Manchester Mayhem 2024,2024-05-12,LLLeeds Mixed,GUXYZ,11,9
-Manchester Mayhem 2024,2024-05-12,LLLeeds Mixed,Mamak Ultimate,12,6
-Manchester Mayhem 2024,2024-05-12,Muntjacs Ultimate,Mamak Ultimate,13,3
+Manchester Mayhem 2024,2024-05-12,LLLeeds Mixed 1,GUXYZ,11,9
+Manchester Mayhem 2024,2024-05-12,LLLeeds Mixed 1,Mamak,12,6
+Manchester Mayhem 2024,2024-05-12,Muntjacs Ultimate,Mamak,13,3
 Manchester Mayhem 2024,2024-05-12,Newcastle Brown,Big Fish Little Fish,13,10
-Manchester Mayhem 2024,2024-05-12,Newcastle Brown,Mamak Ultimate,9,8
+Manchester Mayhem 2024,2024-05-12,Newcastle Brown,Mamak,9,8
 Manchester Mayhem 2024,2024-05-12,Rebel Ultimate,Flyght Mixed,15,12
 Manchester Mayhem 2024,2024-05-12,Rebel Ultimate,Sheffield Steal,15,12
 Manchester Mayhem 2024,2024-05-12,Red,Curve,15,5
 Manchester Mayhem 2024,2024-05-12,Sheffield Steal,Tribe,15,10
 Manchester Mayhem 2024,2024-05-12,Tribe,Flyght Mixed,15,12
-Moooxed 2024,2024-05-12,BN1,SOLENT White,15,7
+Moooxed 2024,2024-05-12,BN1,SOLENT,15,7
 Moooxed 2024,2024-05-12,BN1,Thundering Herd 1,15,7
 Moooxed 2024,2024-05-12,Bristol Mixed,Brixton,12,11
 Moooxed 2024,2024-05-12,Bristol Mixed,Thundering Herd 2,15,14
-Moooxed 2024,2024-05-12,Brixton,Zoo,15,7
-Moooxed 2024,2024-05-12,SOLENT Blue,SOLENT White,15,8
-Moooxed 2024,2024-05-12,Thundering Herd 1,SOLENT Blue,15,8
-Moooxed 2024,2024-05-12,Thundering Herd 2,Zoo,12,8
+Moooxed 2024,2024-05-12,Brixton,Zoo 1,15,7
+Moooxed 2024,2024-05-12,SOLENT,SOLENT,15,8
+Moooxed 2024,2024-05-12,Thundering Herd 1,SOLENT,15,8
+Moooxed 2024,2024-05-12,Thundering Herd 2,Zoo 1,12,8

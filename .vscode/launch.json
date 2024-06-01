@@ -21,11 +21,11 @@
             "justMyCode": true,
             "args": [
                 "--input",
-                "input/2023",
+                "input/2024",
                 "--output",
-                "prepared/2023",
+                "prepared/2024",
                 "--season",
-                "2023",
+                "2024",
             ]
         },
         {
@@ -37,13 +37,13 @@
             "justMyCode": true,
             "args": [
                 "--input",
-                "prepared/2023",
+                "prepared/2024",
                 "--output",
-                "output/2023",
+                "output/2024",
                 "--season",
-                "2023",
+                "2024",
                 "--date",
-                "2023-12-08"
+                "2024-06-01"
             ]
         },
         {
@@ -55,13 +55,13 @@
             "justMyCode": true,
             "args": [
                 "--input",
-                "output/2023",
+                "output/2024",
                 "--output",
-                "datapane/2023/debug-report.html",
+                "datapane/2024/report-2024-06-01-2.html",
                 "--season",
-                "2023",
+                "2024",
                 "--date",
-                "2023-12-08"
+                "2024-06-01"
             ]
         }
     ]

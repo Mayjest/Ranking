@@ -1,0 +1,24 @@
+ranking.data_preparation - INFO - Preparing data for season 2024, mixed division.
+ranking.data_preparation - INFO - 31 teams defined for the mixed division.
+ranking.data_preparation - INFO - 176 raw games found for the mixed division.
+ranking.process_games - INFO - 65 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 176 valid games found for the mixed division.
+ranking.data_preparation - INFO - CSV files saved to prepared/2024.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+
+ranking.data_preparation - INFO - Preparing data for season 2024, open division.
+ranking.data_preparation - INFO - 35 teams defined for the open division.
+ranking.data_preparation - INFO - 145 raw games found for the open division.
+ranking.process_games - INFO - 47 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 145 valid games found for the open division.
+ranking.data_preparation - INFO - CSV files saved to prepared/2024.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+
+ranking.data_preparation - INFO - Preparing data for season 2024, women division.
+ranking.data_preparation - INFO - 17 teams defined for the women division.
+ranking.data_preparation - INFO - 56 raw games found for the women division.
+ranking.process_games - INFO - 13 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 56 valid games found for the women division.
+ranking.data_preparation - INFO - CSV files saved to prepared/2024.
+ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
+

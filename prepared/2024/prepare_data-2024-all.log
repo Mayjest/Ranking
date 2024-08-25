@@ -1,24 +1,25 @@
 ranking.data_preparation - INFO - Preparing data for season 2024, mixed division.
-ranking.data_preparation - INFO - 31 teams defined for the mixed division.
-ranking.data_preparation - INFO - 176 raw games found for the mixed division.
-ranking.process_games - INFO - 65 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 176 valid games found for the mixed division.
+ranking.data_preparation - INFO - 36 teams defined for the mixed division.
+ranking.data_preparation - INFO - 318 raw games found for the mixed division.
+ranking.process_games - INFO - 104 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 318 valid games found for the mixed division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2024.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
 
 ranking.data_preparation - INFO - Preparing data for season 2024, open division.
-ranking.data_preparation - INFO - 35 teams defined for the open division.
-ranking.data_preparation - INFO - 145 raw games found for the open division.
-ranking.process_games - INFO - 47 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 145 valid games found for the open division.
+ranking.data_preparation - INFO - 39 teams defined for the open division.
+ranking.data_preparation - INFO - 305 raw games found for the open division.
+ranking.process_games - INFO - 80 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 305 valid games found for the open division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2024.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
-
+Dublin Frisbee 7s @ EUF Summer Tour 2024 - Leicester
+Ka-Pow! @ EUF Summer Tour 2024 - Leicester
 ranking.data_preparation - INFO - Preparing data for season 2024, women division.
-ranking.data_preparation - INFO - 17 teams defined for the women division.
-ranking.data_preparation - INFO - 56 raw games found for the women division.
-ranking.process_games - INFO - 13 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 56 valid games found for the women division.
+ranking.data_preparation - INFO - 22 teams defined for the women division.
+ranking.data_preparation - INFO - 106 raw games found for the women division.
+ranking.process_games - INFO - 32 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 106 valid games found for the women division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2024.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
 

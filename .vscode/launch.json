@@ -14,54 +14,54 @@
         },
         {
             "name": "Prepare Data",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "prepare_data.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
                 "--input",
-                "input/2024",
+                "input/2025",
                 "--output",
-                "prepared/2024",
+                "prepared/2025",
                 "--season",
-                "2024",
+                "2025",
             ]
         },
         {
             "name": "Calculate Rankings",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "calculate_rankings.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
                 "--input",
-                "prepared/2024",
+                "prepared/2025",
                 "--output",
-                "output/2024",
+                "output/2025",
                 "--season",
-                "2024",
+                "2025",
                 "--date",
-                "2024-06-01"
+                "2025-06-05"
             ]
         },
         {
             "name": "export to datapane",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "export_to_datapane.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
                 "--input",
-                "output/2024",
+                "output/2025",
                 "--output",
-                "datapane/2024/report-2024-06-01-2.html",
+                "datapane/2025/report-2025-06-05.html",
                 "--season",
-                "2024",
+                "2025",
                 "--date",
-                "2024-06-01"
+                "2025-06-05"
             ]
         }
     ]

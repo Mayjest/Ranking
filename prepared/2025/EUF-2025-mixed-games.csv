@@ -3,11 +3,11 @@ Uni Fans 2025,2025-04-05,Birmingham Ultimate,LLLeeds Mixed,8,5
 Uni Fans 2025,2025-04-05,Bristol Mixed,GB Mixed Masters,10,8
 Uni Fans 2025,2025-04-05,Bristol Mixed,Sheffield Steal,12,7
 Uni Fans 2025,2025-04-05,Cambridge Ultimate Mixed 1,Black Sheep Ultimate,11,5
-Uni Fans 2025,2025-04-05,Cambridge Ultimate Mixed 1,Curve,9,4
+Uni Fans 2025,2025-04-05,Cambridge Ultimate Mixed 1,Curve Trajectory,9,4
 Uni Fans 2025,2025-04-05,Cambridge Ultimate Mixed 1,Thundering Herd 2,11,6
 Uni Fans 2025,2025-04-05,Contested 1st,Brixton,10,4
-Uni Fans 2025,2025-04-05,Curve,Black Sheep Ultimate,12,3
-Uni Fans 2025,2025-04-05,Curve,Thundering Herd 2,9,5
+Uni Fans 2025,2025-04-05,Curve Trajectory,Black Sheep Ultimate,12,3
+Uni Fans 2025,2025-04-05,Curve Trajectory,Thundering Herd 2,9,5
 Uni Fans 2025,2025-04-05,Flyght Mixed,Brixton,11,5
 Uni Fans 2025,2025-04-05,GB Mixed Masters,Lemmings 1,9,8
 Uni Fans 2025,2025-04-05,GB Mixed Masters,Sheffield Steal,13,1
@@ -23,7 +23,7 @@ Uni Fans 2025,2025-04-05,Oxford Ultimate,Flyght Mixed,10,7
 Uni Fans 2025,2025-04-05,Oxford Ultimate,Reading 2,12,2
 Uni Fans 2025,2025-04-05,Purple Cobras,Black Sheep Ultimate,13,2
 Uni Fans 2025,2025-04-05,Purple Cobras,Cambridge Ultimate Mixed 1,12,2
-Uni Fans 2025,2025-04-05,Purple Cobras,Curve,12,7
+Uni Fans 2025,2025-04-05,Purple Cobras,Curve Trajectory,12,7
 Uni Fans 2025,2025-04-05,Purple Cobras,Thundering Herd 2,10,3
 Uni Fans 2025,2025-04-05,Reading 2,SOLENT Mixed,9,8
 Uni Fans 2025,2025-04-05,SOLENT Mixed,Sheffield Steal,10,4
@@ -41,8 +41,8 @@ Uni Fans 2025,2025-04-06,Brixton,South Wales Storm,9,7
 Uni Fans 2025,2025-04-06,Cambridge Ultimate Mixed 1,Sheffield Steal,9,8
 Uni Fans 2025,2025-04-06,Contested 1st,GUXYZ,13,4
 Uni Fans 2025,2025-04-06,Contested 1st,South Wales Storm,13,8
-Uni Fans 2025,2025-04-06,Curve,Birmingham Ultimate,13,3
-Uni Fans 2025,2025-04-06,Curve,LLLeeds Mixed,13,1
+Uni Fans 2025,2025-04-06,Curve Trajectory,Birmingham Ultimate,13,3
+Uni Fans 2025,2025-04-06,Curve Trajectory,LLLeeds Mixed,13,1
 Uni Fans 2025,2025-04-06,GB Mixed Masters,Newcastle Brown,15,4
 Uni Fans 2025,2025-04-06,GB Mixed Masters,Oxford Ultimate,15,5
 Uni Fans 2025,2025-04-06,GUXYZ,Brixton,10,7
@@ -127,3 +127,80 @@ Reading X 2025,2025-05-11,Tim Tam Slam,Deep Space Club,13,8
 Reading X 2025,2025-05-11,Tim Tam Slam,GB U24 Mixed,15,5
 Reading X 2025,2025-05-11,Zoo,Epsom Ultimate Mixed,10,7
 Reading X 2025,2025-05-11,Zoo,Thundering Herd 2,8,7
+Manchester 2025,2025-06-07,Black Sheep Ultimate,Sneeekys A,15,6
+Manchester 2025,2025-06-07,Contested 1st,Black Sheep Ultimate,15,8
+Manchester 2025,2025-06-07,Contested 1st,Sneeekys A,15,2
+Manchester 2025,2025-06-07,Flying Sheep Mixed,Black Sheep Ultimate,12,9
+Manchester 2025,2025-06-07,Halcyon Mixed,Flying Sheep Mixed,15,4
+Manchester 2025,2025-06-07,Halcyon Mixed,Sneeekys A,15,5
+Manchester 2025,2025-06-07,Heck,Mamak Ultimate,14,8
+Manchester 2025,2025-06-07,Heck,Newcastle Brown 2,15,4
+Manchester 2025,2025-06-07,Heck,Sheffield Steal,14,12
+Manchester 2025,2025-06-07,Mamak Ultimate,Birmingham Ultimate,12,7
+Manchester 2025,2025-06-07,Mamak Ultimate,Newcastle Brown 2,15,9
+Manchester 2025,2025-06-07,Midlands Mixed Masters,Birmingham Ultimate,15,2
+Manchester 2025,2025-06-07,Midlands Mixed Masters,Newcastle Brown 2,15,8
+Manchester 2025,2025-06-07,Newcastle Brown 1,Contested 1st,15,5
+Manchester 2025,2025-06-07,Newcastle Brown 1,Flying Sheep Mixed,15,0
+Manchester 2025,2025-06-07,Newcastle Brown 1,Halcyon Mixed,15,8
+Manchester 2025,2025-06-07,Sheffield Steal,Birmingham Ultimate,15,3
+Manchester 2025,2025-06-07,Sheffield Steal,Midlands Mixed Masters,14,13
+Moooxed 2025,2025-06-07,Bristol Mixed,Bristol Mixed 2,15,5
+Moooxed 2025,2025-06-07,Bristol Mixed,Thundering Herd 2,15,4
+Moooxed 2025,2025-06-07,Bristol Mixed 2,Curve Trajectory,14,7
+Moooxed 2025,2025-06-07,Brixton,Cambridge Ultimate Mixed 1,13,7
+Moooxed 2025,2025-06-07,Cambridge Ultimate Mixed A,Brixton,15,6
+Moooxed 2025,2025-06-07,Curve Vector,Bristol Mixed,14,13
+Moooxed 2025,2025-06-07,Curve Vector,Thundering Herd 2,14,6
+Moooxed 2025,2025-06-07,Purple Cobras,Curve Trajectory,15,2
+Moooxed 2025,2025-06-07,Purple Cobras,Thundering Herd 2,12,5
+Moooxed 2025,2025-06-07,Reading 2,Cambridge Ultimate Mixed 1,15,5
+Moooxed 2025,2025-06-07,Reading 2,Cambridge Ultimate Mixed A,12,11
+Moooxed 2025,2025-06-07,SOLENT Mixed,Bristol Mixed 2,13,8
+Moooxed 2025,2025-06-07,SOLENT Mixed,Purple Cobras,11,8
+Moooxed 2025,2025-06-07,Thundering Herd 1,Brixton,15,7
+Moooxed 2025,2025-06-07,Thundering Herd 1,Cambridge Ultimate Mixed 1,15,4
+Moooxed 2025,2025-06-07,Thundering Herd 1,Curve Vector,12,8
+Moooxed 2025,2025-06-07,Thundering Herd Masters,Cambridge Ultimate Mixed A,15,5
+Moooxed 2025,2025-06-07,Thundering Herd Masters,Reading 2,11,10
+Moooxed 2025,2025-06-07,Thundering Herd Masters,SOLENT Mixed,13,7
+Manchester 2025,2025-06-08,Birmingham Ultimate,Sneeekys A,10,5
+Manchester 2025,2025-06-08,Black Sheep Ultimate,Birmingham Ultimate,7,5
+Manchester 2025,2025-06-08,Black Sheep Ultimate,Newcastle Brown 2,15,7
+Manchester 2025,2025-06-08,Black Sheep Ultimate,Sneeekys A,15,5
+Manchester 2025,2025-06-08,Contested 1st,Flying Sheep Mixed,15,4
+Manchester 2025,2025-06-08,Halcyon Mixed,Contested 1st,12,10
+Manchester 2025,2025-06-08,Heck,Halcyon Mixed,14,7
+Manchester 2025,2025-06-08,Heck,Midlands Mixed Masters,10,7
+Manchester 2025,2025-06-08,Mamak Ultimate,Flying Sheep Mixed,15,6
+Manchester 2025,2025-06-08,Mamak Ultimate,Halcyon Mixed,13,8
+Manchester 2025,2025-06-08,Midlands Mixed Masters,Contested 1st,13,8
+Manchester 2025,2025-06-08,Newcastle Brown 1,Heck,14,11
+Manchester 2025,2025-06-08,Newcastle Brown 1,Mamak Ultimate,15,6
+Manchester 2025,2025-06-08,Newcastle Brown 1,Sheffield Steal,15,7
+Manchester 2025,2025-06-08,Newcastle Brown 2,Birmingham Ultimate,13,10
+Manchester 2025,2025-06-08,Newcastle Brown 2,Sneeekys A,15,6
+Manchester 2025,2025-06-08,Sheffield Steal,Flying Sheep Mixed,15,3
+Manchester 2025,2025-06-08,Sheffield Steal,Midlands Mixed Masters,14,11
+Moooxed 2025,2025-06-08,Bristol Mixed,SOLENT Mixed,14,8
+Moooxed 2025,2025-06-08,Bristol Mixed 2,Curve Trajectory,12,7
+Moooxed 2025,2025-06-08,Bristol Mixed 2,Thundering Herd 2,10,8
+Moooxed 2025,2025-06-08,Brixton,Bristol Mixed 2,13,6
+Moooxed 2025,2025-06-08,Brixton,Cambridge Ultimate Mixed 1,12,6
+Moooxed 2025,2025-06-08,Brixton,Curve Trajectory,13,7
+Moooxed 2025,2025-06-08,Cambridge Ultimate Mixed 1,Bristol Mixed 2,8,7
+Moooxed 2025,2025-06-08,Cambridge Ultimate Mixed 1,Thundering Herd 2,8,6
+Moooxed 2025,2025-06-08,Curve Trajectory,Cambridge Ultimate Mixed 1,9,5
+Moooxed 2025,2025-06-08,Curve Vector,Purple Cobras,13,10
+Moooxed 2025,2025-06-08,Curve Vector,Thundering Herd Masters,13,9
+Moooxed 2025,2025-06-08,Purple Cobras,Cambridge Ultimate Mixed A,13,6
+Moooxed 2025,2025-06-08,Purple Cobras,SOLENT Mixed,15,9
+Moooxed 2025,2025-06-08,Reading 2,Cambridge Ultimate Mixed A,14,4
+Moooxed 2025,2025-06-08,SOLENT Mixed,Reading 2,12,10
+Moooxed 2025,2025-06-08,Thundering Herd 1,Bristol Mixed,13,8
+Moooxed 2025,2025-06-08,Thundering Herd 1,Curve Vector,13,9
+Moooxed 2025,2025-06-08,Thundering Herd 1,Reading 2,14,4
+Moooxed 2025,2025-06-08,Thundering Herd 2,Brixton,11,5
+Moooxed 2025,2025-06-08,Thundering Herd 2,Curve Trajectory,10,2
+Moooxed 2025,2025-06-08,Thundering Herd Masters,Bristol Mixed,12,7
+Moooxed 2025,2025-06-08,Thundering Herd Masters,Cambridge Ultimate Mixed A,12,6

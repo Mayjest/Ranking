@@ -1,25 +1,25 @@
 ranking.data_preparation - INFO - Preparing data for season 2025, mixed division.
-ranking.data_preparation - INFO - 41 teams defined for the mixed division.
-ranking.data_preparation - INFO - 205 raw games found for the mixed division.
-ranking.process_games - INFO - 73 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 205 valid games found for the mixed division.
+ranking.data_preparation - INFO - 44 teams defined for the mixed division.
+ranking.data_preparation - INFO - 268 raw games found for the mixed division.
+ranking.process_games - INFO - 87 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 268 valid games found for the mixed division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2025.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
 
 ranking.data_preparation - INFO - Preparing data for season 2025, open division.
-ranking.data_preparation - INFO - 32 teams defined for the open division.
-ranking.data_preparation - INFO - 143 raw games found for the open division.
+ranking.data_preparation - INFO - 35 teams defined for the open division.
+ranking.data_preparation - INFO - 190 raw games found for the open division.
 ranking.data_preparation - WARNING - Incorrect team names detected in teams_at_tournaments: ['SOLENT Open']
-ranking.process_games - INFO - 55 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 143 valid games found for the open division.
+ranking.process_games - INFO - 69 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 190 valid games found for the open division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2025.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
 
 ranking.data_preparation - INFO - Preparing data for season 2025, women division.
-ranking.data_preparation - INFO - 18 teams defined for the women division.
-ranking.data_preparation - INFO - 60 raw games found for the women division.
-ranking.process_games - INFO - 20 matches' W-L reordered in the dataset.
-ranking.data_preparation - INFO - 60 valid games found for the women division.
+ranking.data_preparation - INFO - 23 teams defined for the women division.
+ranking.data_preparation - INFO - 90 raw games found for the women division.
+ranking.process_games - INFO - 33 matches' W-L reordered in the dataset.
+ranking.data_preparation - INFO - 90 valid games found for the women division.
 ranking.data_preparation - INFO - CSV files saved to prepared/2025.
 ranking.data_preparation - INFO - Teams not in the EUF season found in the data:
 
